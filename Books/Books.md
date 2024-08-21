@@ -3,6 +3,7 @@
 [[Nonlinear Dynamics and Chaos (1994)]]
 [[Introduction to Applied Nonlinear Dynamics and Chaos (1990)]]
 [[Nonlinear Oscillations, Dynamical Systems and Bifurcations of Vector Fields (1983)]]
+[[Dynamical Systems with Applications Using Python (2018)]]
 ## [[Networks]]
 [[Modularity and Dynamics on Complex Networks (2021)]]
 ## Physics

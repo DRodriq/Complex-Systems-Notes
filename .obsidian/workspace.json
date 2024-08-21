@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Books/Nonlinear Dynamics and Chaos (1994).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 648.5
+    "width": 696.5
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Books/Nonlinear Dynamics and Chaos (1994).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Books/Nonlinear Dynamics and Chaos (1994).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Books/Nonlinear Dynamics and Chaos (1994).md"
               }
             }
           }
@@ -148,11 +148,20 @@
   },
   "active": "f47296ef579ece76",
   "lastOpenFiles": [
+    "Images",
+    "Books/Introduction to Applied Nonlinear Dynamics and Chaos (1990).md",
+    "Books/Dynamical Systems with Applications Using Python (2018).md",
+    "Images/J_forms.png",
+    "Concepts/Existence and Uniqueness.md",
     "Books/Books.md",
+    "People/Stephen Lynch.md",
+    "Software and Projects/Software and Projects.md",
+    "People/Stefan Thurner.md",
+    "People/People.md",
+    "People/Jurgen Kurths.md",
     "README.md",
     "Institutions/Institutions.md",
     "Institutions/Humboldt University.md",
-    "People/Jurgen Kurths.md",
     "Journals/Potsdam Institute for Climate Impact Research.md",
     "Journals/Chaos (Journal).md",
     "Topic Areas/Networks.md",
@@ -162,21 +171,13 @@
     "Topic Areas/Agent-Based Modeling.md",
     "Topic Areas/Complexity Economics.md",
     "Topic Areas/Climate Science.md",
-    "People/People.md",
     "Topic Areas/Ecology.md",
     "Journals/Journals.md",
     "People/Mason Porter.md",
     "Journals/Nonlinear Dynamics (Journal).md",
     "Journals",
-    "People/Robin L. Chazdin.md",
-    "People/Christian Messier.md",
     "Topic Areas",
-    "People/Kenneth Stanley.md",
-    "Institutions/Argonne National Lab.md",
-    "People/Charles M. Macal.md",
-    "Software and Projects/Software and Projects.md",
     "Software and Projects",
-    "Institutions/Center for Complex Adaptive Agent Systems Simulation.md",
     "Institutions",
     "Problem Sets",
     "Courses",

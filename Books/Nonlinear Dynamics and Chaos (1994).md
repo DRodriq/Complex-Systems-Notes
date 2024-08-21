@@ -9,7 +9,7 @@ In 1963 [[Edward Norton Lorenz]] discovered chaotic motion on a strange attracto
 [[Benoit Mandlebrot]] wprled pm fractals.
 [[1980s]] - Widespread interest in chaos, fractals, oscillators, etc.
 ### Part I: One-Dimensional Flows
-#### Flows on the Line
+#### Chapter 2: Flows on the Line
 ##### Introduction
 ##### A Geometric Way of Thinking
 ##### Fixed Points and Stability
@@ -21,7 +21,7 @@ In 1963 [[Edward Norton Lorenz]] discovered chaotic motion on a strange attracto
 ##### Solving Equations on the Computer
 ##### [[Problem Set for Chapter 2 of Nonlinear Dynamics and Chaos (1994) - Flows on the Line]]
 
-#### Bifurcations
+#### Chapter 3: Bifurcations
 ##### Introduction
 ##### Saddle-Node Bifurcations
 ##### Transcritical Bifurcation
@@ -31,7 +31,7 @@ See also: [[Hermann Haken]]: [[Laser Theory (1983)]] and [[Synergetics: An Intro
 ##### Overdamped Bead on a Rotating Hoop
 ##### Imperfect Bifurcations and Catastrophes
 ##### Insect Outbreak
-#### Flows on the Circle
+#### Chapter 4: Flows on the Circle
 ##### Introduction
 ##### Examples and Definitions
 ##### Nonuniform Oscillator
@@ -40,15 +40,15 @@ See also: [[Hermann Haken]]: [[Laser Theory (1983)]] and [[Synergetics: An Intro
 ##### Superconducting Josephson Junctions
 ### Part II: Two-Dimensional Flows
 
-#### Linear Systems
-#### Phase Plane
-#### Limit Cycles
-#### Bifurcations Revisited
+#### Chapter 5: Linear Systems
+#### Chapter 6: Phase Plane
+#### Chapter 7: Limit Cycles
+#### Chapter 8: Bifurcations Revisited
 ### Part III: Chaos
-#### Lorenz Equations
-#### One-Dimensional Maps
-#### Fractals
-#### Strange Attractors
+#### Chapter 9: Lorenz Equations
+#### Chapter 10: One-Dimensional Maps
+#### Chapter 11: Fractals
+#### Chapter 12: Strange Attractors
 ### Answer Guide
 [Some Solutions](file:///home/drodriq/Downloads/solution_manual_of_non_linear_dynamics.pdf)
 ### References
