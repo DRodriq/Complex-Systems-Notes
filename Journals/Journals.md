@@ -2,12 +2,15 @@
 [[Nature (Journal)]]
 [[Scientific Reports (Journal)]]
 [[Proceedings of the National Academy of Sciences (Journal)]]
-## Complexity
+## [[Complex Systems]]
 [[Complexity (Journal)]]
 [[Complex Systems (Journal)]]
-## Nonlinear Dynamics, Chaos, and Dynamical Systems
+[[Advances in Complex Systems (Journal)]]
+## [[Nonlinear Dynamics, Dynamical Systems, and Chaos]]
 [[Nonlinear Dynamics (Journal)]]
 [[Chaos (Journal)]]
 [[SIAM Journal on Applied Mathematics (Journal)]]
-## Artificial Life, Evolutionary Programming
+## [[Artifical Life, Evolutionary Computing, Cellular Automata]]
 [eLife (Journal)]
+## [[AI]]
+[[Journal of Artificial Intelligence Research]]

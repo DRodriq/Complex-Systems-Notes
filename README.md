@@ -1,4 +1,6 @@
-[[People]]
+## [[People]]
+**Format:**
+
 [[Institutions]]
 [[Topic Areas]]
 [[Books]]
