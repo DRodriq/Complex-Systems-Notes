@@ -1,0 +1,13 @@
+## [[Nonlinear Dynamics, Dynamical Systems, and Chaos]]
+[[Differential Equations, Dynamical Systems, and an Introduction to Chaos (2003)]]
+[[Nonlinear Dynamics and Chaos (1994)]]
+[[Introduction to Applied Nonlinear Dynamics and Chaos (1990)]]
+[[Nonlinear Oscillations, Dynamical Systems and Bifurcations of Vector Fields (1983)]]
+## [[Networks]]
+[[Modularity and Dynamics on Complex Networks (2021)]]
+## Physics
+[[Laser Theory (1983)]]
+[[Synergetics: An Introduction (1983)]]
+## [[Philosophy]]
+[[Philosophy of Complex Systems (2011)]]
+## [[Ecology]]

@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "80d3574943b84f3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c558183ae29f3249",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f386ab4952c4f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e7b87aad90a3105",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ce474c840c7e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f47296ef579ece76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c48c1d2105114c26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b80db6227288e033",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 648.5
+  },
+  "right": {
+    "id": "d0fafb4dbba4ad15",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb50eddd0c245b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e0a68cb1e4197f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/Books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa34b2e11c14a9c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/Books.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80d7bd4bdd7c4bcc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d72a527a39369f2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/Books.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9f386ab4952c4f05",
+  "lastOpenFiles": [
+    "Index.md",
+    "Institutions/Institutions.md",
+    "Institutions/Humboldt University.md",
+    "People/Jurgen Kurths.md",
+    "Journals/Potsdam Institute for Climate Impact Research.md",
+    "Journals/Chaos (Journal).md",
+    "Topic Areas/Networks.md",
+    "Topic Areas/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
+    "Topic Areas/Topic Areas.md",
+    "Topic Areas/Philosophy.md",
+    "Books/Books.md",
+    "Topic Areas/Agent-Based Modeling.md",
+    "Topic Areas/Complexity Economics.md",
+    "Topic Areas/Climate Science.md",
+    "People/People.md",
+    "Topic Areas/Ecology.md",
+    "Journals/Journals.md",
+    "People/Mason Porter.md",
+    "Journals/Nonlinear Dynamics (Journal).md",
+    "Journals",
+    "People/Robin L. Chazdin.md",
+    "People/Christian Messier.md",
+    "Topic Areas",
+    "People/Kenneth Stanley.md",
+    "Institutions/Argonne National Lab.md",
+    "People/Charles M. Macal.md",
+    "Software and Projects/Software and Projects.md",
+    "Software and Projects",
+    "Institutions/Center for Complex Adaptive Agent Systems Simulation.md",
+    "Institutions",
+    "Problem Sets",
+    "Courses",
+    "Tools",
+    "Papers",
+    "Concepts",
+    "People"
+  ]
+}
