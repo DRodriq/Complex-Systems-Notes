@@ -163,6 +163,8 @@ The method for plotting phase portraits for nonlinear planar systems having hype
 - Goals
 	- Plot solution curves to modeling problems for planar systems
 	- interepret results
+### 4.1 Competing Species
+
 **Will come back**
 ## Chapter 5: Limit Cycles
 - Aims and Objectives:
@@ -175,4 +177,4 @@ The method for plotting phase portraits for nonlinear planar systems having hype
 	- Prove certain systems have no limit cycles
 	- Interpret limit cycle behavior in physical terms
 	- Find approximate solutions for perturbed systems
-Limit cycles, or isolated periodic solutions, are the most common form of solutions observed when modeling physical systems in the plane. 
+Limit cycles, or isolated periodic solutions, are the most common form of solutions observed when modeling physical systems in the plane.

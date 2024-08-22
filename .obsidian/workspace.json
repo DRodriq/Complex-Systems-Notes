@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Neural Networks as Dynamical Systems.md",
-                "mode": "source",
+                "file": "Books/Dynamical Systems with Applications Using Python (2018).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Neural Networks as Dynamical Systems.md",
+                "file": "Books/Dynamical Systems with Applications Using Python (2018).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Neural Networks as Dynamical Systems.md",
+                "file": "Books/Dynamical Systems with Applications Using Python (2018).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Neural Networks as Dynamical Systems.md"
+                "file": "Books/Dynamical Systems with Applications Using Python (2018).md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "da5b2c2d11f68e14",
   "lastOpenFiles": [
-    "Concepts/Neural Networks.md",
     "Concepts/Neural Networks as Dynamical Systems.md",
+    "Concepts/Neural Networks.md",
     "Concepts/Neuroevolution.md",
     "Concepts/Concepts.md",
     "README.md",
