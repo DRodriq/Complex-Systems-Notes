@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Mason Porter.md",
+                "file": "Concepts/Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "da5b2c2d11f68e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Dynamical Systems with Applications Using Python (2018).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 696.5
+    "width": 200
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Mason Porter.md",
+                "file": "Books/Dynamical Systems with Applications Using Python (2018).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Mason Porter.md",
+                "file": "Books/Dynamical Systems with Applications Using Python (2018).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Mason Porter.md"
+                "file": "Books/Dynamical Systems with Applications Using Python (2018).md"
               }
             }
           }
@@ -146,8 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f47296ef579ece76",
+  "active": "da5b2c2d11f68e14",
   "lastOpenFiles": [
+    "Concepts/Neural Networks as Dynamical Systems.md",
+    "Concepts/Neural Networks.md",
+    "Concepts/Neuroevolution.md",
+    "Concepts/Concepts.md",
+    "README.md",
+    "Books/Managing Forests as Complex Adaptive Systems (2013).md",
+    "Books/Books.md",
+    "People/Mason Porter.md",
     "People/Peter J. Mucha.md",
     "People/People.md",
     "Journals/Advances in Complex Systems (Journal).md",
@@ -165,17 +186,9 @@
     "People/Hermann Haken.md",
     "People/Christian Messier.md",
     "People/Charles M. Macal.md",
-    "README.md",
     "Books/Nonlinear Dynamics and Chaos (1994).md",
     "Images",
-    "Books/Introduction to Applied Nonlinear Dynamics and Chaos (1990).md",
-    "Books/Dynamical Systems with Applications Using Python (2018).md",
     "Images/J_forms.png",
-    "Concepts/Existence and Uniqueness.md",
-    "Books/Books.md",
-    "People/Stephen Lynch.md",
-    "Software and Projects/Software and Projects.md",
-    "People/Stefan Thurner.md",
     "Journals",
     "Topic Areas",
     "Software and Projects",
