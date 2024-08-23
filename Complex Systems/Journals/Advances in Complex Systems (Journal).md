@@ -1,6 +1,5 @@
 ## Links
 [Homepage](https://www.worldscientific.com/worldscinet/acs)
-
 ## Editorial Board
 Editor in Chief [[Marton Karsal]]
 ### Section Editors

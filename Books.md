@@ -11,5 +11,5 @@
 [[Synergetics: An Introduction (1983)]]
 ## [[Philosophy]]
 [[Philosophy of Complex Systems (2011)]]
-## [[Ecology]]
+## [[Biology and Ecology]]
 [[Managing Forests as Complex Adaptive Systems (2013)]]

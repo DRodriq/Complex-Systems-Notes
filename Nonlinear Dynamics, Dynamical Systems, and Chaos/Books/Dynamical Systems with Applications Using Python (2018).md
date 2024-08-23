@@ -27,7 +27,7 @@ by [[Stephen Lynch]]
 - C22: Courswork and Exam-Type Papers
 #### Recommended Texts
 [[Random Dynamical Systems in Finance (2016)]]
-[[A First Course in Fuzzy Logic, Fuzzy Dynamical Systems, and Biomathematics: Theory and Applications (2016)]]
+[[A First Course in Fuzzy Logic, Fuzzy Dynamical Systems, and Biomathematics - Theory and Applications (2016)]]
 [[Infinite Dimensional Dynamical Systems (2013)]]
 [[Stochastic and Infinite Dimensional Analysis]]
 ## Chapter 1: Python
@@ -110,7 +110,7 @@ $\dot{x}=Ax$ where x is a vector  and A is the matrix of constants $a_{ij}$
 **Definitions**
 *D1:* Every solution, ${\phi}(t)=(x(t),y(t))$ can be represented as a curve on the plane called a trajectory, or orbit. The [[Existence and Uniqueness]] theorem guarantees that trajectories do not cross. Although there are infinite number of trajectories, the qualitative behavior can be determined given the appropriate initial conditions.
 *D2:* The [[Phase Portrait]] is a two-dimensional figure showing how the qualitative behavior of the system is determined as x,y vary with t.
-*D3:* The direction field or [[vector field]] gives the gradients dy/dx and direction vectors of the trajectories in the phase plane. The slope of the trajectories can be determined using the chain rule: $dy/dx = \dot{x}/\dot{y}$, and the direction of the vector field is given by $\dot{x}, \dot{y}$ at each point in the xy plane.
+*D3:* The direction field or vector field gives the gradients dy/dx and direction vectors of the trajectories in the phase plane. The slope of the trajectories can be determined using the chain rule: $dy/dx = \dot{x}/\dot{y}$, and the direction of the vector field is given by $\dot{x}, \dot{y}$ at each point in the xy plane.
 *D4:* The contour lines for which $dy/dx$ is a constant is called isoclines
 *D5:* The contour lines for which $dy/dt =0, dx/dt=0$ are called nullclines
 **Canonical Forms**
@@ -164,8 +164,27 @@ The method for plotting phase portraits for nonlinear planar systems having hype
 	- Plot solution curves to modeling problems for planar systems
 	- interepret results
 ### 4.1 Competing Species
-
-**Will come back**
+Two species competing for a common food source model
+**Example 1:** *Sketch possible phase plane diagrams for the following system*
+$\dot{x} = x({\beta}-{\delta}x-{\gamma}y)$ 
+$\dot{y}=y(b-dy-cx)$
+Where ${\beta}, {\delta}, {\gamma}, a, b, c$ are all positive constants with x(t) and y(t) represent the two species population
+${\beta}x-{\delta}x^{2}$ and $by-dy^2$ represent the usual logistic growth of one species (Verhulst's equation). Both species suffer from competition $-{\gamma}xy$ and $-cxy$ 
+### 4.2 Predator-Prey Models
+Consider a two-species predator-prey model in which one species preys on another. 
+**Example 2:** *Sketch a phase portrait for the Lotka-Voltera Model*
+$\dot{x} = x({\alpha}-cy)$, $\dot{y}=y({\gamma}x-{\delta})$
+where all are constants and x(t), y(t) representing the scaled population of prey and predator.
+### 4.3 Other Characteristics Affecting Interacting Species
+Parasitic interactions. Age classes, diseases, environmental effects, enrichment of prey, harvesting and culling policies, pollution, refuge, seasonal effects, three or more species interactions. 
+### Bibliography
+[[Systems for Biological Modeling - An Introduction (2015)]]
+[[Mathematical Models in Biology (2005)]]
+[[Population Biology - Concepts and Models (2005)]]
+[[Selective predation and productivity jointly drive complex behavior in host-parasite systems (Hall, Duffy, Caceres) (2005)]]
+[[Hopf bifurcation analysis for a predator-prey system of Holling and Leslie type (Hsu, Hwang) (1999)]]
+[[Predator-prey interaction coupled by parasitic infection - limit cycles and chaotic behavior (Lenbury, Rattanamongkonkul) (1999)]]
+[[Mathematics in Population Biology (2003)]]
 ## Chapter 5: Limit Cycles
 - Aims and Objectives:
 	- Historical background
@@ -178,3 +197,28 @@ The method for plotting phase portraits for nonlinear planar systems having hype
 	- Interpret limit cycle behavior in physical terms
 	- Find approximate solutions for perturbed systems
 Limit cycles, or isolated periodic solutions, are the most common form of solutions observed when modeling physical systems in the plane.
+### 5.1 Historical Background
+**Definition 1:** *A limit cycle is an isolated periodic solution*
+Example 1
+Rayleigh in 1877 derived the following differential equation relating to the oscillation of a violin string:
+$\dot{\dot{x}} + {\epsilon}(1/3x^2-1)\dot{x}+x=0$ rewritten as a system of first-order autonomous differential equations in the plane
+$\dot{x}=y$ 
+$\dot{y}=-x-{\epsilon}(y^2/3-1)y$
+More examples are given.
+### 5.2 Existence and Uniqueness of Limit Cycle in the Plane
+### 5.3 Nonexistence of Limit Cycles in the Plane
+### 5.4 Perturbation Methods
+### Bibliography
+[[Nonlinear Analysis - Modelling and Control (2013)]]
+[[Bifurcation Theory of Limit Cycles (2016)]]
+[[Singular Perturbation in the Physical Sciences (2015)]]
+[[Differential Equations and Dynamical Systems (2006)]]
+## Chapter 6: Hamiltonian Systems, Lyapunov Functions, and Stability
+Aims and Objectives
+- To study [[Hamiltonian]] systems in the plane
+- To investigate stability using Lyapunov functions
+On completion, goals
+- Prove whether a system is Hamiltonian
+- Sketch phase portraits of Hamiltonian systems
+- Use Lyapunov functions to determine the stability of a critical point
+- Distinguish between stability and asymptotic stability
