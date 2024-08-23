@@ -222,3 +222,73 @@ On completion, goals
 - Sketch phase portraits of Hamiltonian systems
 - Use Lyapunov functions to determine the stability of a critical point
 - Distinguish between stability and asymptotic stability
+### 6.1 Hamiltonian Systems in the Plane
+**Definition 1:** 
+A system of differential equations on $R^2$ is said to be Hamiltonian with one defree of freedom if it can be expressed in the form:
+$dx/dt = \partial{H}/\partial{y}$
+$dy/dt=-\partial{H}/\partial{x}$
+Where $H(x,y)$ is a twice-continously differential function. The system is said to be conservative and there is no dissipation. The Hamiltonian is defined by 
+$H(x,y) = K(x,y) + V(x,y)$
+Where K is kinetic energy and V is the potential energy.
+*Theorem 1 (Conservation of Energy): The total energy H(x,y) is a first integral and a constant of the motion*
+**Definition 2:**
+A criticial point of the system $\dot{x}=f(x)$, $x {\in} R^2$
+at which the Jacobian matrix has no zero eigenvalues is called a nondegenerate critical point. Otherwise, it is called a degenerate critical point.
+*Theorem 2: Any nondegenerate critical point of an analytic Hamiltonian System is either a saddle point or a center.*
+**Definition 3:** *Homoclinic Orbit*
+Suppose that $x_0$ is a critical point of the system. If ... I don't understand this COME BACK here
+**Definition 4:** *Heteroclinic Orbit*
+**Definition 5:** *Separatrix*
+An orbit that divides the phase plane into two distinctly different types of qualitative behavior. The homoclinic and heteroclinic orbits are examples of seperatrix cycles.
+### 6.2 Lyapunov Functions and Stability
+Recall that the stability of hyberbolic critical points may be determined from the eigenvalues of the Jacobian matrix. The critical point is stable if the real part of all the eigenvalues is negative. If a critical point is nonhyberbolic, we may be able to determine stability using...
+
+Imagine a system defined by the potential function 
+### Bibliography
+[[Nonlinear Dynamical Systems and Control - A Lyapunov-Based Approach (2008)]]
+[[Hamiltonian Chaos and Fractional Dynamics (2008)]]
+[[Differential Equations, Dynamical Systems, and an Introduction to Chaos (2003)]]
+## Bifurcation Theory
+Aims and Objectives
+- Introduce bifurcation theory of continous systems in the plane
+- Introduce the notion of steady-state solution and investigate multi-state stability and bistability
+- Introduce the theory of normal forms
+Goals
+- Describe how a phase portrait changes as a parameter changes
+- Animate phase portraits and plot bifurcation diagrams
+- Take transformations to obtain simple normal forms
+- Interepret the bifurcation diagrams in terms of physical behavior
+### 7.1 Bifurcation of Nonlinear Systems in the Plane
+**Peixoto's Theorem in the Plane**
+#### 7.1.1 A Saddle-Node Bifurcation
+#### 7.1.1 A Transcritical Bifurcation
+#### 7.1.3 A Pitchfork Bifurcation
+#### 7.1.4 A Hopf Bifurcation
+### 7.3 Normal Forms
+### 7.3 Multistability and Bistability
+### Bibliography
+## Chapter 8: Three-Dimensional Autonomous Systems and Chaos
+### 8.1 Linear Systems and Canonical Forms
+### 8.2 Nonlinear Systems and Stability
+### 8.3 The Rossler System and Chaos
+#### 8.3.1 The Rossler Attractor
+#### 8.3.2 Chaos
+### 8.4 The Lorenz Equations, Chua's Circuit, and the Belousov-Zhabotinski Reaction
+#### 8.4.1 The Lorenz Equation
+#### 8.4.2 Chua's Circuit
+#### 8.4.3 the Belousov-Zhabotinski Reaction
+### Bibliography
+[[A Concise Guide to Chaotic Electronic Circuits (2014)]]
+[[Chaos and Nonlinear Dynamics - An Introduction for Scientists and Engineers (2000)]]
+## Chapter 9: Poincare Maps and Nonautomous Systems in the Plane
+## Chapter 10: Local and Global Bifurcations
+## Chapter 11: The Second Part of Hilbert's Sixteenth Problem
+## Chapter 12: Delay Differential Equations
+## Chapter 13: Linear Discrete Dynamical Systems
+## Chapter 14: Nonlinear Discrete Dynamical Systems
+## Chapter 15: Complex Iterative Maps
+## Chapter 16: Electromagnetic Waves and Optical Resonators
+## Chapter 17: Fractals and Multifractals
+## Chapter 18: Image Processing with Python
+## Chapter 19: Chaos Control and Synchronization
+## Chapter 20: Neural Networks
