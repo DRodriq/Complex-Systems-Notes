@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "173d61a28834a0f5",
+            "id": "50f5582374f05f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "50f5582374f05f49",
+            "id": "b08dc883a73b4aa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Hamiltonian.md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Hamiltonian.md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Hamiltonian.md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Hamiltonian.md"
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md"
               }
             }
           }
@@ -173,12 +172,16 @@
   },
   "active": "50f5582374f05f49",
   "lastOpenFiles": [
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
+    "People/People.md",
+    "People/Yuying Liu.md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Hamiltonian.md",
+    "ABM, Evolutionary Computing, A-Life, and CA/Concepts/Cortexlab.md",
+    "ABM, Evolutionary Computing, A-Life, and CA/Concepts",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Infinite Dimensional Dynamical Systems (2013).md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/A First Course in Fuzzy Logic, Fuzzy Dynamical Systems, and Biomathematics - Theory and Applications (2016).md",
     "Economics and Finance/Random Dynamical Systems in Finance (2016).md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
     "Social Sciences/Social Sciences.md",
     "Complex Systems/Journals/Advances in Complex Systems (Journal).md",
     "Philosophy/Philosophy.md",
@@ -197,18 +200,14 @@
     "Topic Areas.md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Oscillations, Dynamical Systems and Bifurcations of Vector Fields (1983).md",
     "Books.md",
-    "Philosophy/Books/Philosophy of Complex Systems (2011).md",
     "Philosophy/Books",
     "ABM, Evolutionary Computing, A-Life, and CA/Papers",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Papers",
-    "ABM, A-Life, and CA/ABM, Artifical Life, and Cellular Automata.md",
-    "Journals.md",
     "Complex Systems/Journals",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Journals",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books",
     "Networks/Books",
     "Complex Systems/Books",
-    "Biology, Ecology, and Climate Science/Books",
     "Images/J_forms.png"
   ]
 }

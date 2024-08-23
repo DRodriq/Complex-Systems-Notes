@@ -23,6 +23,7 @@
 [[Christopher Langton]]
 [[Stephen Wolfram]]
 [[Steen Rasmussen]]
+[[Yuying Liu]]
 ## [[Physics]]
 [[Hermann Haken]]
 [[Murray Gell-Mann]]
