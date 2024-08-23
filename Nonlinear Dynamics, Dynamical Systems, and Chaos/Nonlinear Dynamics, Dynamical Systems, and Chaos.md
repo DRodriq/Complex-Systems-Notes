@@ -1,0 +1,25 @@
+## Concepts
+[[Eigenvalues and Eigenvectors]]
+[[Jacobian Matrix and Determinant]]
+[[Existence and Uniqueness]]
+[[Lyanpunov Exponent]]
+[[Bifurcations]]
+[[Hamiltonian]]
+## Books
+[[Bifurcation Theory of Limit Cycles (2016)]]
+[[Differential Equations and Dynamical Systems (2006)]]
+[[Differential Equations, Dynamical Systems, and an Introduction to Chaos (2003)]]
+[[Dynamical Systems with Applications Using Python (2018)]]
+[[Introduction to Applied Nonlinear Dynamics and Chaos (1990)]]
+[[Nonlinear Analysis - Modelling and Control (2013)]]
+[[Nonlinear Dynamics and Chaos (1994)]]
+[[Nonlinear Oscillations, Dynamical Systems and Bifurcations of Vector Fields (1983)]]
+[[Singular Perturbation in the Physical Sciences (2015)]]
+## Journals
+[[Chaos (Journal)]]
+[[Chaos, Solitons, and Fractals (Journal)]]
+[[Nonlinear Dynamics (Journal)]]
+## Papers
+[[Hopf bifurcation analysis for a predator-prey system of Holling and Leslie type (Hsu, Hwang) (1999)]]
+[[Predator-prey interaction coupled by parasitic infection - limit cycles and chaotic behavior (Lenbury, Rattanamongkonkul) (1999)]]
+[[Selective predation and productivity jointly drive complex behavior in host-parasite systems (Hall, Duffy, Caceres) (2005)]]

@@ -4,6 +4,6 @@
 ## Institutions
 College of Liberal Arts and Sciences at [[University of Connecticut]]
 ## Field
-Tropical [[Ecology]]
+Tropical [[Biology and Ecology]]
 ## Publications
 Chapter 3 in [[Managing Forests as Complex Adaptive Systems (2013)]]
