@@ -8,27 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50f5582374f05f49",
+            "id": "b08dc883a73b4aa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b08dc883a73b4aa2",
+            "id": "322edd9ac74abe52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
+                "file": "AI/People/Steen Rasmussen.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "afbbe6735ce339e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/People/Stephen Wolfram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddea6fe16e2cfbab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -109,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md"
+                "file": "README.md"
               }
             }
           }
@@ -170,44 +190,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50f5582374f05f49",
+  "active": "b08dc883a73b4aa2",
   "lastOpenFiles": [
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
     "People/People.md",
+    "AI/People/Steen Rasmussen.md",
+    "AI/People/Stephen Wolfram.md",
+    "AI/People",
+    "README.md",
+    "Physics/Books/Synergetics - An Introduction (1983).md",
+    "Books.md",
+    "Physics/Books/Laser Theory (1983).md",
+    "Physics/Physics.md",
+    "Physics/Books",
+    "Physics",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
+    "Journals.md",
+    "General/Journals/Nature (Journal).md",
+    "General/Journals/Proceedings of the National Academy of Sciences (Journal).md",
+    "General/Journals/Scientific Reports (Journal).md",
+    "General/Journals",
+    "General",
+    "AI/Journals/Journal of Artificial Intelligence Research.md",
+    "AI/Journals/eLife (Journal).md",
+    "AI/Journals",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Journals/SIAM Journal on Applied Mathematics (Journal).md",
+    "Software and Projects/Software and Projects.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Courses",
+    "AI/AI.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
     "People/Yuying Liu.md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Hamiltonian.md",
-    "ABM, Evolutionary Computing, A-Life, and CA/Concepts/Cortexlab.md",
-    "ABM, Evolutionary Computing, A-Life, and CA/Concepts",
+    "AI/Concepts/Cortexlab.md",
+    "AI/Concepts",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Infinite Dimensional Dynamical Systems (2013).md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/A First Course in Fuzzy Logic, Fuzzy Dynamical Systems, and Biomathematics - Theory and Applications (2016).md",
     "Economics and Finance/Random Dynamical Systems in Finance (2016).md",
     "Social Sciences/Social Sciences.md",
-    "Complex Systems/Journals/Advances in Complex Systems (Journal).md",
-    "Philosophy/Philosophy.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Concepts.md",
-    "Networks/Networks.md",
-    "Complex Systems/Journals/Complexity (Journal).md",
-    "Complex Systems/Journals/Complex Systems (Journal).md",
-    "Complex Systems/Complex Systems.md",
-    "Complex Systems/Books/Introduction to the Theory of Complex Systems (2018).md",
-    "Biology, Ecology, and Climate Science/Biology, Ecology, and Climate Science.md",
-    "ABM, Evolutionary Computing, A-Life, and CA/AI, A-Life, Evolutionary Computing, Cellular Automata, ABM.md",
-    "ABM, Evolutionary Computing, A-Life, and CA/Concepts.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Lyanpunov Exponent.md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts",
-    "Concepts/Concepts.md",
-    "Topic Areas.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Oscillations, Dynamical Systems and Bifurcations of Vector Fields (1983).md",
-    "Books.md",
     "Philosophy/Books",
-    "ABM, Evolutionary Computing, A-Life, and CA/Papers",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Papers",
-    "Complex Systems/Journals",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Journals",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books",
-    "Networks/Books",
-    "Complex Systems/Books",
     "Images/J_forms.png"
   ]
 }
