@@ -4,66 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "76df996cdf3aae05",
+        "id": "f6c27ddf80e3a360",
         "type": "tabs",
         "children": [
           {
-            "id": "b08dc883a73b4aa2",
+            "id": "e50cefe0ea46de92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Complex Systems/People/Yaneer Bar-Yam.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "322edd9ac74abe52",
+            "id": "0d0beaba1e27712f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/People/Steen Rasmussen.md",
+                "file": "People/People.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "afbbe6735ce339e0",
+            "id": "cf5acbde8736aa41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/People/Stephen Wolfram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddea6fe16e2cfbab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "740b37f1c52872ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
+                "file": "Old Notes/Ultimate Gestalt List (Old).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 696.5
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -129,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Old Notes/Ultimate Gestalt List (Old).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Old Notes/Ultimate Gestalt List (Old).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Old Notes/Ultimate Gestalt List (Old).md"
               }
             }
           }
@@ -190,44 +171,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b08dc883a73b4aa2",
+  "active": "cf5acbde8736aa41",
   "lastOpenFiles": [
+    "Old Notes/Study Plan (Old).md",
+    "Old Notes/People and Institutions (Old).md",
+    "Old Notes/Notes from M&A of Compex Systems (Old).md",
+    "Old Notes/Neuroevolution Notes (Old).md",
+    "Old Notes/Modeling and Sim Notes (Old).md",
+    "Tools/Untitled.md",
+    "Old Notes/ML Curriculum (Old).md",
+    "Old Notes/MARL (Old).md",
+    "AI/Concepts/Multi-Agent Reinforcement Learning (MARL).md",
+    "AI/Books/Multi-Agent Reinforcement Learning - Foundations and Modern Approaches (2024).md",
+    "AI/Books/Emergent Computation (1991).md",
+    "Old Notes/Intro to Complexity Notes (Old).md",
     "People/People.md",
-    "AI/People/Steen Rasmussen.md",
-    "AI/People/Stephen Wolfram.md",
-    "AI/People",
-    "README.md",
-    "Physics/Books/Synergetics - An Introduction (1983).md",
-    "Books.md",
-    "Physics/Books/Laser Theory (1983).md",
-    "Physics/Physics.md",
-    "Physics/Books",
-    "Physics",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
-    "Journals.md",
-    "General/Journals/Nature (Journal).md",
-    "General/Journals/Proceedings of the National Academy of Sciences (Journal).md",
-    "General/Journals/Scientific Reports (Journal).md",
-    "General/Journals",
-    "General",
-    "AI/Journals/Journal of Artificial Intelligence Research.md",
-    "AI/Journals/eLife (Journal).md",
-    "AI/Journals",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Journals/SIAM Journal on Applied Mathematics (Journal).md",
-    "Software and Projects/Software and Projects.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Courses",
-    "AI/AI.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
-    "People/Yuying Liu.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Hamiltonian.md",
-    "AI/Concepts/Cortexlab.md",
-    "AI/Concepts",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Infinite Dimensional Dynamical Systems (2013).md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/A First Course in Fuzzy Logic, Fuzzy Dynamical Systems, and Biomathematics - Theory and Applications (2016).md",
-    "Economics and Finance/Random Dynamical Systems in Finance (2016).md",
+    "Complex Systems/People/Yaneer Bar-Yam.md",
+    "Networks/People",
+    "Biology, Ecology, and Climate Science/People",
+    "Physics/People",
+    "Complex Systems/People/John Holland.md",
+    "Complex Systems/People/Melanie Mitchell.md",
+    "Complex Systems/People/Elizabeth Bradley.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/People",
+    "Old Notes/Curriculum (Old).md",
+    "Old Notes/Courses of Interest (Old).md",
+    "Old Notes/Booklist (Old).md",
+    "Physics/People/Hermann Haken.md",
+    "Complex Systems/People",
+    "Social Sciences/Journals/Journal of Artificial Societies and Social Simulation (Journal).md",
+    "Social Sciences/Journals",
+    "Social Sciences/People/Nigel Gilbert.md",
+    "Social Sciences/Books/The Complexity of Cooperation (2011).md",
+    "Social Sciences/People",
+    "Social Sciences/Books",
+    "Social Sciences/People/Robert Axelrod.md",
     "Social Sciences/Social Sciences.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts",
-    "Philosophy/Books",
+    "Systems Science, General Systems Theory, and Cybernetics",
+    "Old Notes",
     "Images/J_forms.png"
   ]
 }

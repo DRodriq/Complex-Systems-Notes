@@ -7,6 +7,7 @@
 [[Nonlinear Dynamics, Dynamical Systems, and Chaos]]
 [[Philosophy]]
 [[Social Sciences]]
+[[Systems Science, General Systems Theory, and Cybernetics]]
 ### People
 [[People]]
 ### Institutions
