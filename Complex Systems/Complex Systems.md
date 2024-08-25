@@ -5,3 +5,10 @@
 [[Complexity (Journal)]]
 [[Complex Systems (Journal)]]
 [[Advances in Complex Systems (Journal)]]
+## People
+[[Elizabeth Bradley]]
+[[Hiroki Sayama]]
+[[John Holland]]
+[[Melanie Mitchell]]
+[[Stuart Kauffman]]
+[[Yaneer Bar-Yam]]

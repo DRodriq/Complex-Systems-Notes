@@ -13,38 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
+                "file": "Networks/Networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b1b262d8f35dc82d",
+            "id": "82c940094acea695",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fd96083ed04e293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos (1994).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 741.5
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -110,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos (1994).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos (1994).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos (1994).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,44 +151,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fd96083ed04e293",
+  "active": "82c940094acea695",
   "lastOpenFiles": [
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Introduction to Applied Nonlinear Dynamics and Chaos (1990).md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
+    "Networks/Networks.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Yuying Liu.md",
+    "Complex Systems/People/David Wolpert.md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos (1994).md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Manifolds.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Jacobian.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Hamiltonian Systems.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Bifurcation Theory.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Index Theory.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Lyanpunov Exponent.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Vector Fields.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Differential Equations, Dynamical Systems, and an Introduction to Chaos (2003).md",
-    "Complex Systems/Books/Encyclopedia of Complexity and Systems Science (2009).md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/A First Course in Fuzzy Logic, Fuzzy Dynamical Systems, and Biomathematics - Theory and Applications (2016).md",
+    "Networks/People/Albert-Laszlo Barabasi.md",
+    "Networks/People/Peter J. Mucha.md",
+    "Biology, Ecology, and Climate Science/People/Robin L. Chazdin.md",
+    "Biology, Ecology, and Climate Science/Biology, Ecology, and Climate Science.md",
+    "Systems Science, General Systems Theory, and Cybernetics/Systems Science, General Systems Theory, and Cybernetics.md",
     "People/People.md",
-    "Complex Systems/People/Yaneer Bar-Yam.md",
-    "Untitled",
+    "Physics/People/Claude Shannon.md",
+    "Networks/People/Duncan James Watts.md",
+    "Systems Science, General Systems Theory, and Cybernetics/People",
+    "Systems Science, General Systems Theory, and Cybernetics/People/Ludwig Von Bertalanffy.md",
+    "Systems Science, General Systems Theory, and Cybernetics/People/Donella Meadows.md",
+    "Systems Science, General Systems Theory, and Cybernetics/People/Norbert Weiner.md",
+    "Complex Systems/Complex Systems.md",
+    "Complex Systems/People/Stuart Kauffman.md",
     "Economics and Finance/Economics and Finance.md",
-    "Economics and Finance/Books/Random Dynamical Systems in Finance (2013).md",
+    "Economics and Finance/People",
+    "Social Sciences/Social Sciences.md",
+    "Social Sciences/People/Joshua Epstein.md",
+    "Biology, Ecology, and Climate Science/People/Edward Norton Lorenz.md",
+    "Physics/People/Murray Gell-Mann.md",
+    "Biology, Ecology, and Climate Science/People/Klaus Puettmann.md",
+    "Philosophy/People",
+    "Philosophy/People/Jaegwon Kim.md",
+    "Philosophy/People/Paul Humphreys.md",
+    "Untitled",
     "Economics and Finance/Books",
-    "Old Notes/Ultimate Gestalt List (Old).md",
-    "Old Notes/Study Plan (Old).md",
-    "Old Notes/People and Institutions (Old).md",
-    "Old Notes/Notes from M&A of Compex Systems (Old).md",
-    "Old Notes/Neuroevolution Notes (Old).md",
-    "Old Notes/Modeling and Sim Notes (Old).md",
-    "Old Notes/ML Curriculum (Old).md",
-    "Old Notes/MARL (Old).md",
-    "Old Notes/List of People, Terms, and Work.md",
     "Networks/People",
     "Biology, Ecology, and Climate Science/People",
     "Physics/People",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/People",
     "Complex Systems/People",
-    "Social Sciences/Journals",
-    "Social Sciences/People",
-    "Social Sciences/Books",
     "Images/J_forms.png"
   ]
 }
