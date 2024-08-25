@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e50cefe0ea46de92",
+            "id": "8a4f84c6ed651806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complex Systems/People/Yaneer Bar-Yam.md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d0beaba1e27712f",
+            "id": "b1b262d8f35dc82d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/People.md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf5acbde8736aa41",
+            "id": "9fd96083ed04e293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Notes/Ultimate Gestalt List (Old).md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos (1994).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 696.5
+    "width": 484.5
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old Notes/Ultimate Gestalt List (Old).md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos (1994).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Old Notes/Ultimate Gestalt List (Old).md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos (1994).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old Notes/Ultimate Gestalt List (Old).md"
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos (1994).md"
               }
             }
           }
@@ -171,44 +171,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5acbde8736aa41",
+  "active": "9fd96083ed04e293",
   "lastOpenFiles": [
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Introduction to Applied Nonlinear Dynamics and Chaos (1990).md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Dynamical Systems with Applications Using Python (2018).md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos (1994).md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Manifolds.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Jacobian.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Hamiltonian Systems.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Bifurcation Theory.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Index Theory.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Lyanpunov Exponent.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Concepts/Vector Fields.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Differential Equations, Dynamical Systems, and an Introduction to Chaos (2003).md",
+    "Complex Systems/Books/Encyclopedia of Complexity and Systems Science (2009).md",
+    "People/People.md",
+    "Complex Systems/People/Yaneer Bar-Yam.md",
+    "Untitled",
+    "Economics and Finance/Economics and Finance.md",
+    "Economics and Finance/Books/Random Dynamical Systems in Finance (2013).md",
+    "Economics and Finance/Books",
+    "Old Notes/Ultimate Gestalt List (Old).md",
     "Old Notes/Study Plan (Old).md",
     "Old Notes/People and Institutions (Old).md",
     "Old Notes/Notes from M&A of Compex Systems (Old).md",
     "Old Notes/Neuroevolution Notes (Old).md",
     "Old Notes/Modeling and Sim Notes (Old).md",
-    "Tools/Untitled.md",
     "Old Notes/ML Curriculum (Old).md",
     "Old Notes/MARL (Old).md",
-    "AI/Concepts/Multi-Agent Reinforcement Learning (MARL).md",
-    "AI/Books/Multi-Agent Reinforcement Learning - Foundations and Modern Approaches (2024).md",
-    "AI/Books/Emergent Computation (1991).md",
-    "Old Notes/Intro to Complexity Notes (Old).md",
-    "People/People.md",
-    "Complex Systems/People/Yaneer Bar-Yam.md",
+    "Old Notes/List of People, Terms, and Work.md",
     "Networks/People",
     "Biology, Ecology, and Climate Science/People",
     "Physics/People",
-    "Complex Systems/People/John Holland.md",
-    "Complex Systems/People/Melanie Mitchell.md",
-    "Complex Systems/People/Elizabeth Bradley.md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/People",
-    "Old Notes/Curriculum (Old).md",
-    "Old Notes/Courses of Interest (Old).md",
-    "Old Notes/Booklist (Old).md",
-    "Physics/People/Hermann Haken.md",
     "Complex Systems/People",
-    "Social Sciences/Journals/Journal of Artificial Societies and Social Simulation (Journal).md",
     "Social Sciences/Journals",
-    "Social Sciences/People/Nigel Gilbert.md",
-    "Social Sciences/Books/The Complexity of Cooperation (2011).md",
     "Social Sciences/People",
     "Social Sciences/Books",
-    "Social Sciences/People/Robert Axelrod.md",
-    "Social Sciences/Social Sciences.md",
-    "Systems Science, General Systems Theory, and Cybernetics",
-    "Old Notes",
     "Images/J_forms.png"
   ]
 }

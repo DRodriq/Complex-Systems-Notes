@@ -4,7 +4,7 @@
 [[Existence and Uniqueness]]
 [[Lyanpunov Exponent]]
 [[Bifurcations]]
-[[Hamiltonian]]
+[[Hamiltonian Systems]]
 ## Books
 [[Bifurcation Theory of Limit Cycles (2016)]]
 [[Differential Equations and Dynamical Systems (2006)]]
@@ -15,6 +15,7 @@
 [[Nonlinear Dynamics and Chaos (1994)]]
 [[Nonlinear Oscillations, Dynamical Systems and Bifurcations of Vector Fields (1983)]]
 [[Singular Perturbation in the Physical Sciences (2015)]]
+[[Applied Differential Geometry - A Modern Introduction (2007)]]
 ## Journals
 [[Chaos (Journal)]]
 [[Chaos, Solitons, and Fractals (Journal)]]

@@ -26,7 +26,7 @@ by [[Stephen Lynch]]
 - C21: Binary Oscillator Computing
 - C22: Courswork and Exam-Type Papers
 #### Recommended Texts
-[[Random Dynamical Systems in Finance (2016)]]
+[[Random Dynamical Systems in Finance (2013)]]
 [[A First Course in Fuzzy Logic, Fuzzy Dynamical Systems, and Biomathematics - Theory and Applications (2016)]]
 [[Infinite Dimensional Dynamical Systems (2013)]]
 [[Stochastic and Infinite Dimensional Analysis]]
@@ -215,7 +215,7 @@ More examples are given.
 [[Differential Equations and Dynamical Systems (2006)]]
 ## Chapter 6: Hamiltonian Systems, Lyapunov Functions, and Stability
 Aims and Objectives
-- To study [[Hamiltonian]] systems in the plane
+- To study [[Hamiltonian Systems]] systems in the plane
 - To investigate stability using Lyapunov functions
 On completion, goals
 - Prove whether a system is Hamiltonian
@@ -248,7 +248,7 @@ Imagine a system defined by the potential function
 [[Nonlinear Dynamical Systems and Control - A Lyapunov-Based Approach (2008)]]
 [[Hamiltonian Chaos and Fractional Dynamics (2008)]]
 [[Differential Equations, Dynamical Systems, and an Introduction to Chaos (2003)]]
-## Bifurcation Theory
+## Chapter 7: Bifurcation Theory
 Aims and Objectives
 - Introduce bifurcation theory of continous systems in the plane
 - Introduce the notion of steady-state solution and investigate multi-state stability and bistability
