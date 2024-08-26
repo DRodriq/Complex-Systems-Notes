@@ -1,0 +1,5 @@
+
+Emergence is not well defined or agreed on. It is mostly defined through analogy or example; a sort of "you know it when you see it" sort of thing.
+[[David Pines]] in the following [Medium article](https://medium.com/sfi-30-foundations-frontiers/emergence-a-unifying-theme-for-21st-century-science-4324ac0f951e): Emergence thus refers to collective phenomena or behaviors in complex adaptive systems that are not present in their individual parts.
+Examples given by Pines: birds flocking, fireflies synchronizing, ants colonizing, fish schooling, individuals self-organizing into neighborhoods in cities – all with no leaders or central control – to the Big Bang, the formation of galaxies and stars and planets, the evolution of life on earth from its origins until now, the folding of proteins, the assembly of cells, the crystallization of atoms in a liquid, the superconductivity of electrons in some metals, the changing global climate, or the development of consciousness in an infant.
+[[Philip Anderson]] wrote [[More is Different (Anderson) (1972)]] 

@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3410e4b84b647ebe",
+        "id": "c30e789888536a2c",
         "type": "tabs",
         "children": [
           {
-            "id": "85a6fa5f6de94383",
+            "id": "ac2310df37a65409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6a0660428468a3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing/Computing.md",
+                "file": "Complex Systems/Concepts/Emergence.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Complex Systems/Concepts/Emergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Complex Systems/Concepts/Emergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Complex Systems/Concepts/Emergence.md"
               }
             }
           }
@@ -158,9 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85a6fa5f6de94383",
+  "active": "ac2310df37a65409",
   "lastOpenFiles": [
+    "Complex Systems/Papers/More is Different (Anderson) (1972).md",
+    "Complex Systems/Concepts/Emergence.md",
+    "Physics/People/Philip Anderson.md",
+    "Complex Systems/Papers",
+    "Complex Systems/People/David Pines.md",
+    "Complex Systems/Concepts",
     "Computing/Computing.md",
+    "Biology, Ecology, and Climate Science/Books/Self-Organization in Complex Ecosystems (2006).md",
+    "Biology, Ecology, and Climate Science/People/Jordi Bascompte.md",
+    "Biology, Ecology, and Climate Science/People/Ricard V. Sole.md",
     "README.md",
     "Physics/Physics.md",
     "Computing/People/Andrey Kolmogorov.md",
@@ -180,13 +177,6 @@
     "Economics and Finance/People/W. Brian Arthur.md",
     "Economics and Finance/People/Kenneth Arrow.md",
     "Topic Areas.md",
-    "Complex Systems/Complex Systems.md",
-    "Complex Systems/Books/The End of Certainty (1997).md",
-    "Complex Systems/People/Yaneer Bar-Yam.md",
-    "Biology, Ecology, and Climate Science/Biology, Ecology, and Climate Science.md",
-    "Biology, Ecology, and Climate Science/Books/Managing Forests as Complex Adaptive Systems (2013).md",
-    "Complex Systems/Books/Exploring Complexity - An Introduction (1989).md",
-    "Edward Norton Lorenz[[Raymond T. Pierrehumbert.md",
     "Systems Science, General Systems Theory, and Cybernetics/People",
     "Economics and Finance/People",
     "Philosophy/People",
@@ -194,8 +184,6 @@
     "Economics and Finance/Books",
     "Networks/People",
     "Biology, Ecology, and Climate Science/People",
-    "Physics/People",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/People",
-    "Complex Systems/People"
+    "Physics/People"
   ]
 }
