@@ -1,6 +1,6 @@
 [[Nonlinear Dynamics, Dynamical Systems, and Chaos]]
 [[Networks]]
-[[AI]]
+[[Computing]]
 [[Biology, Ecology, and Climate Science]]
 [[Economics and Finance]]
 [[Philosophy]]

@@ -4,31 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f6c27ddf80e3a360",
+        "id": "3410e4b84b647ebe",
         "type": "tabs",
         "children": [
           {
-            "id": "8a4f84c6ed651806",
+            "id": "85a6fa5f6de94383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/Networks.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82c940094acea695",
+            "id": "a6a0660428468a3a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computing/Computing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -151,44 +158,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82c940094acea695",
+  "active": "85a6fa5f6de94383",
   "lastOpenFiles": [
-    "Networks/Networks.md",
+    "Computing/Computing.md",
+    "README.md",
+    "Physics/Physics.md",
+    "Computing/People/Andrey Kolmogorov.md",
+    "Computing/People/Kurt Godel.md",
+    "Computing/People/Gregory Chaitin.md",
+    "Computing/Books/A New Kind of Science (2002).md",
+    "Computing/People/John von Neumann.md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Yuying Liu.md",
-    "Complex Systems/People/David Wolpert.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/A First Course in Fuzzy Logic, Fuzzy Dynamical Systems, and Biomathematics - Theory and Applications (2016).md",
-    "Networks/People/Albert-Laszlo Barabasi.md",
-    "Networks/People/Peter J. Mucha.md",
-    "Biology, Ecology, and Climate Science/People/Robin L. Chazdin.md",
-    "Biology, Ecology, and Climate Science/Biology, Ecology, and Climate Science.md",
-    "Systems Science, General Systems Theory, and Cybernetics/Systems Science, General Systems Theory, and Cybernetics.md",
-    "People/People.md",
-    "Physics/People/Claude Shannon.md",
-    "Networks/People/Duncan James Watts.md",
-    "Systems Science, General Systems Theory, and Cybernetics/People",
-    "Systems Science, General Systems Theory, and Cybernetics/People/Ludwig Von Bertalanffy.md",
-    "Systems Science, General Systems Theory, and Cybernetics/People/Donella Meadows.md",
-    "Systems Science, General Systems Theory, and Cybernetics/People/Norbert Weiner.md",
-    "Complex Systems/Complex Systems.md",
-    "Complex Systems/People/Stuart Kauffman.md",
+    "Networks/Networks.md",
+    "History, Social, and Political Sciences/History, Social, and Political Sciences.md",
+    "History, Social, and Political Sciences/People/Peter Turchin.md",
+    "Institutions/Complexity Sciences Hub Vienna.md",
+    "History, Social, and Political Sciences/Journals/Cliodynamics (Journal).md",
+    "History, Social, and Political Sciences/People/Joshua Epstein.md",
+    "Images/J_forms.png",
     "Economics and Finance/Economics and Finance.md",
+    "Economics and Finance/People/W. Brian Arthur.md",
+    "Economics and Finance/People/Kenneth Arrow.md",
+    "Topic Areas.md",
+    "Complex Systems/Complex Systems.md",
+    "Complex Systems/Books/The End of Certainty (1997).md",
+    "Complex Systems/People/Yaneer Bar-Yam.md",
+    "Biology, Ecology, and Climate Science/Biology, Ecology, and Climate Science.md",
+    "Biology, Ecology, and Climate Science/Books/Managing Forests as Complex Adaptive Systems (2013).md",
+    "Complex Systems/Books/Exploring Complexity - An Introduction (1989).md",
+    "Edward Norton Lorenz[[Raymond T. Pierrehumbert.md",
+    "Systems Science, General Systems Theory, and Cybernetics/People",
     "Economics and Finance/People",
-    "Social Sciences/Social Sciences.md",
-    "Social Sciences/People/Joshua Epstein.md",
-    "Biology, Ecology, and Climate Science/People/Edward Norton Lorenz.md",
-    "Physics/People/Murray Gell-Mann.md",
-    "Biology, Ecology, and Climate Science/People/Klaus Puettmann.md",
     "Philosophy/People",
-    "Philosophy/People/Jaegwon Kim.md",
-    "Philosophy/People/Paul Humphreys.md",
     "Untitled",
     "Economics and Finance/Books",
     "Networks/People",
     "Biology, Ecology, and Climate Science/People",
     "Physics/People",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/People",
-    "Complex Systems/People",
-    "Images/J_forms.png"
+    "Complex Systems/People"
   ]
 }

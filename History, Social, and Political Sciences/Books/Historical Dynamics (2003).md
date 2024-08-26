@@ -1,0 +1,1 @@
+by [[Peter Turchin]]. Pat of the [[Princeton Studies in Complexity (Series)]]

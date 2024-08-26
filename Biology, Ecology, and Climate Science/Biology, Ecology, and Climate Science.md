@@ -1,11 +1,17 @@
 ## People
 [[Christian Messier]]
+[[Edward Norton Lorenz]]
+[[Eric Bonabeau]]
+[[Henry S. Horn]]
 [[Klaus Puettmann]]
 [[Robin L. Chazdin]]
-[[Edward Norton Lorenz]]
+[[Raymond T. Pierrehumbert]]
 ## Books
 [[Managing Forests as Complex Adaptive Systems (2013)]]
 [[Mathematical Models in Biology (2005)]]
 [[Mathematics in Population Biology (2003)]]
 [[Population Biology - Concepts and Models (2005)]]
+[[Principles of Planetary Climate (2010)]]
+[[Self-Organization in Biological Systems (2001)]]
 [[Systems for Biological Modeling - An Introduction (2015)]]
+[[The Adaptive Geometry of Trees (1971)]]
