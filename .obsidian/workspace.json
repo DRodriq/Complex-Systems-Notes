@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec6f4ed56fc33b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Philosophy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfa4720759e33a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complex Systems/Concepts/Emergence.md",
+                "file": "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complex Systems/Concepts/Emergence.md",
+                "file": "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complex Systems/Concepts/Emergence.md"
+                "file": "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md"
               }
             }
           }
@@ -146,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac2310df37a65409",
+  "active": "dfa4720759e33a6f",
   "lastOpenFiles": [
-    "Complex Systems/Papers/More is Different (Anderson) (1972).md",
     "Complex Systems/Concepts/Emergence.md",
+    "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md",
+    "Philosophy/Philosophy.md",
+    "Complex Systems/Papers/More is Different (Anderson) (1972).md",
     "Physics/People/Philip Anderson.md",
     "Complex Systems/Papers",
     "Complex Systems/People/David Pines.md",
@@ -175,8 +202,6 @@
     "Images/J_forms.png",
     "Economics and Finance/Economics and Finance.md",
     "Economics and Finance/People/W. Brian Arthur.md",
-    "Economics and Finance/People/Kenneth Arrow.md",
-    "Topic Areas.md",
     "Systems Science, General Systems Theory, and Cybernetics/People",
     "Economics and Finance/People",
     "Philosophy/People",
