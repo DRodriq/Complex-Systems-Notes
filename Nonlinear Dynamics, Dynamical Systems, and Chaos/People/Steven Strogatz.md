@@ -3,6 +3,6 @@
 [Google Scholar](https://scholar.google.com/citations?user=FxyRWlcAAAAJ&hl=en)
 [Professional Page](https://math.cornell.edu/steven-strogatz)
 ## Publications
-[[Nonlinear Dynamics and Chaos (1994)]]
+[[Nonlinear Dynamics and Chaos - With Applications to Physics, Biology, Chemistry, and Engineering (1994)]]
 ## Students
 [[Stefan Thurner]]

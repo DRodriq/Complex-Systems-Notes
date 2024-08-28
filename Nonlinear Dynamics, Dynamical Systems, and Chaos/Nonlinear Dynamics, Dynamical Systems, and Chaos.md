@@ -20,7 +20,7 @@
 [[Infinite Dimensional Dynamical Systems (2013)]]
 [[Introduction to Applied Nonlinear Dynamics and Chaos (1990)]]
 [[Nonlinear Analysis - Modelling and Control (2013)]]
-[[Nonlinear Dynamics and Chaos (1994)]]
+[[Nonlinear Dynamics and Chaos - With Applications to Physics, Biology, Chemistry, and Engineering (1994)]]
 [[Nonlinear Oscillations, Dynamical Systems and Bifurcations of Vector Fields (1983)]]
 [[Qualitative Theory of Planar Differential Systems (2006)]]
 [[Singular Perturbation in the Physical Sciences (2015)]]

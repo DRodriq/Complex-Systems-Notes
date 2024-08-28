@@ -1,13 +1,5 @@
 # Subtopics
-## AI/ML
-### People
-[[Kenneth Stanley]]
-### Concepts
-[[Neural Networks]]
-[[Neuroevolution]]
-[[Neural Networks as Dynamical Systems]]
-### Papers
-[[Neuroevolution of Augmenting Topologies]]
+## [[AI]]
 ## Cellular Automata
 ### Books
 [[A New Kind of Science (2002)]]

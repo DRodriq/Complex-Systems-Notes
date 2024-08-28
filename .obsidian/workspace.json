@@ -8,36 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac2310df37a65409",
+            "id": "c2f20ebe62d23c3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complex Systems/Concepts/Emergence.md",
+                "file": "Computing/AI/AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec6f4ed56fc33b86",
+            "id": "3d6cf55a4bfc3f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Philosophy.md",
+                "file": "Computing/AI/People/Yuying Liu.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dfa4720759e33a6f",
+            "id": "bafc2b2c1f7d1bea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md",
+                "file": "Computing/AI/Concepts/Model Discovery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da1b701b23ee51dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing/AI/Papers/Automated Statistical Model Discovery with Language Models (Li, Fox, Goodman) (2024).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f32b7f659c68dae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing/Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 741.5
+    "width": 754.5
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md",
+                "file": "Computing/AI/Concepts/Model Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md",
+                "file": "Computing/AI/Concepts/Model Discovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md"
+                "file": "Computing/AI/Concepts/Model Discovery.md"
               }
             }
           }
@@ -171,9 +195,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfa4720759e33a6f",
+  "active": "bafc2b2c1f7d1bea",
   "lastOpenFiles": [
+    "Images/bifurcation_diagram_logistics_equation.png",
+    "Images/bifurcation_diagram_logistics_equation.png.crdownload",
+    "Images/bifurcation_diagram_logistics_equation.jpg",
+    "Images/bifurcation_diagram_logistics_equation.jpg.crdownload",
+    "Computing/AI/Papers/Automated Statistical Model Discovery with Language Models (Li, Fox, Goodman) (2024).md",
+    "Computing/AI/Papers",
+    "Computing/AI/Concepts/Model Discovery.md",
+    "Computing/AI/AI.md",
     "Complex Systems/Concepts/Emergence.md",
+    "Courses.md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Courses/Nonlinear Dynamics and Chaos (Course).md",
+    "Computing/AI/People/Yuying Liu.md",
+    "Computing/Computing.md",
+    "Computing/AI/Concepts",
+    "Computing/AI/People",
+    "Computing/AI/People/Noah Goodman.md",
+    "Computing/AI",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos - With Applications to Physics, Biology, Chemistry, and Engineering (1994).md",
+    "Complex Systems/Courses",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Systems (2012).md",
+    "Complex Systems/Courses/Modeling Environmental Complexity (Course).md",
     "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md",
     "Philosophy/Philosophy.md",
     "Complex Systems/Papers/More is Different (Anderson) (1972).md",
@@ -181,7 +225,6 @@
     "Complex Systems/Papers",
     "Complex Systems/People/David Pines.md",
     "Complex Systems/Concepts",
-    "Computing/Computing.md",
     "Biology, Ecology, and Climate Science/Books/Self-Organization in Complex Ecosystems (2006).md",
     "Biology, Ecology, and Climate Science/People/Jordi Bascompte.md",
     "Biology, Ecology, and Climate Science/People/Ricard V. Sole.md",
@@ -190,25 +233,7 @@
     "Computing/People/Andrey Kolmogorov.md",
     "Computing/People/Kurt Godel.md",
     "Computing/People/Gregory Chaitin.md",
-    "Computing/Books/A New Kind of Science (2002).md",
-    "Computing/People/John von Neumann.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Yuying Liu.md",
-    "Networks/Networks.md",
-    "History, Social, and Political Sciences/History, Social, and Political Sciences.md",
-    "History, Social, and Political Sciences/People/Peter Turchin.md",
-    "Institutions/Complexity Sciences Hub Vienna.md",
-    "History, Social, and Political Sciences/Journals/Cliodynamics (Journal).md",
-    "History, Social, and Political Sciences/People/Joshua Epstein.md",
     "Images/J_forms.png",
-    "Economics and Finance/Economics and Finance.md",
-    "Economics and Finance/People/W. Brian Arthur.md",
-    "Systems Science, General Systems Theory, and Cybernetics/People",
-    "Economics and Finance/People",
-    "Philosophy/People",
-    "Untitled",
-    "Economics and Finance/Books",
-    "Networks/People",
-    "Biology, Ecology, and Climate Science/People",
-    "Physics/People"
+    "Systems Science, General Systems Theory, and Cybernetics/People"
   ]
 }
