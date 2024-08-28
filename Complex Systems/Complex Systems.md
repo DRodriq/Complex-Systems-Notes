@@ -1,7 +1,7 @@
 ## Books
 [[At Home in the Universe (1995)]]
 [[The End of Certainty (1997)]]
-[[Complexity - The Emerging Science at the Edge of Order and Chaos]]
+[[Complexity - The Emerging Science at the Edge of Order and Chaos (1992)]]
 [[Encyclopedia of Complexity and Systems Science (2009)]]
 [[Exploring Complexity - An Introduction (1989)]]
 [[Hidden Order - How Adaptation Builds Complexity]]
