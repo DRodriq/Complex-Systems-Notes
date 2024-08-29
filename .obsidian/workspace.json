@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "3d6cf55a4bfc3f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing/AI/People/Yuying Liu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bafc2b2c1f7d1bea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing/AI/Concepts/Model Discovery.md",
+                "file": "Computing/AI/Papers/Edge of chaos as a guiding principle for modern neural network training (Lin Zhang, Ling Feng, Kan Chen, and Choy Heng Lai) (2021).md",
                 "mode": "source",
                 "source": false
               }
@@ -49,19 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introductory Material/Introductory Material.md",
+                "file": "Computing/AI/AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "da1b701b23ee51dd",
+            "id": "921382c2a1575d2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing/AI/Papers/Automated Statistical Model Discovery with Language Models (Li, Fox, Goodman) (2024).md",
+                "file": "Computing/AI/People/Donald Wunsch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e741adee20015bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing/AI/Concepts/Neuroevolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 754.5
+    "width": 262.5
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introductory Material/Introductory Material.md",
+                "file": "Computing/AI/People/Donald Wunsch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introductory Material/Introductory Material.md",
+                "file": "Computing/AI/People/Donald Wunsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introductory Material/Introductory Material.md"
+                "file": "Computing/AI/People/Donald Wunsch.md"
               }
             }
           }
@@ -207,10 +207,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34477e4d5fe43be8",
+  "active": "921382c2a1575d2d",
   "lastOpenFiles": [
-    "Complex Systems/Books/Complexity - The Emerging Science at the Edge of Order and Chaos (1992).md",
+    "Computing/AI/AI.md",
+    "Computing/AI/Papers/Edge of chaos as a guiding principle for modern neural network training (Lin Zhang, Ling Feng, Kan Chen, and Choy Heng Lai) (2021).md",
+    "Computing/AI/People/Donald Wunsch.md",
+    "Computing/AI/Concepts/Adaptive Resonance Theory.md",
+    "Computing/AI/Concepts/Model Discovery.md",
+    "Computing/AI/Concepts/Neuroevolution.md",
+    "Computing/Computing.md",
+    "Computing/AI/Papers/Automated Statistical Model Discovery with Language Models (Li, Fox, Goodman) (2024).md",
+    "Computing/AI/Papers/Quality-diversity optimization - a novel branch of stochastic optimization (Cully) (2021).md",
+    "Computing/AI/Papers/Quality and Diversity Optimization - A Unifying Modular Framework (Cully) (2017).md",
+    "Computing/AI/People/Antoine Cully.md",
+    "Computing/AI/Papers/Dynamics-aware quality-diversity for efficient learning of skill repertoires (Lim, Grillotti, Bernasconi, Cully) (2022).md",
+    "Computing/AI/Concepts/Quality Diversity.md",
+    "Computing/AI/Papers/Neuroevolution of Augmenting Topologies (Stanley, Miikkulainen) (2002).md",
+    "Computing/AI/People/Risto Miikkulainen.md",
+    "Computing/AI/People/Ellen Kuhl.md",
+    "Complex Systems/Books/Encyclopedia of Complexity and Systems Science (2009).md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Courses/Nonlinear Dynamics and Chaos (Course).md",
     "Introductory Material/Introductory Material.md",
+    "Complex Systems/Books/Complexity - The Emerging Science at the Edge of Order and Chaos (1992).md",
     "Complex Systems/Books/Complexity - The Emerging Science at the Edge of Order and Chaos (1992).md",
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Chaos - Making a New Science (1987).md",
     "README.md",
@@ -218,33 +236,15 @@
     "Computing/AI/People/Emily B. Fox.md",
     "Tools/JAX.md",
     "Institutions/Stanford University.md",
-    "Institutions/University of Washington.md",
-    "Institutions/MIT.md",
-    "Computing/AI/AI.md",
-    "Computing/AI/Concepts/Model Discovery.md",
     "Images/bifurcation_diagram_logistics_equation.png",
     "Images/bifurcation_diagram_logistics_equation.png.crdownload",
     "Images/bifurcation_diagram_logistics_equation.jpg",
     "Images/bifurcation_diagram_logistics_equation.jpg.crdownload",
-    "Computing/AI/Papers/Automated Statistical Model Discovery with Language Models (Li, Fox, Goodman) (2024).md",
     "Computing/AI/Papers",
-    "Complex Systems/Concepts/Emergence.md",
-    "Courses.md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Courses/Nonlinear Dynamics and Chaos (Course).md",
-    "Computing/AI/People/Yuying Liu.md",
-    "Computing/Computing.md",
     "Computing/AI/Concepts",
     "Computing/AI/People",
-    "Computing/AI/People/Noah Goodman.md",
     "Computing/AI",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Dynamics and Chaos - With Applications to Physics, Biology, Chemistry, and Engineering (1994).md",
     "Complex Systems/Courses",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Nonlinear Systems (2012).md",
-    "Complex Systems/Courses/Modeling Environmental Complexity (Course).md",
-    "Complex Systems/Books/Emergence - Contemporary Readings in Philosophy and Science (2008).md",
-    "Philosophy/Philosophy.md",
-    "Complex Systems/Papers/More is Different (Anderson) (1972).md",
-    "Physics/People/Philip Anderson.md",
     "Complex Systems/Papers",
     "Complex Systems/Concepts",
     "Images/J_forms.png"

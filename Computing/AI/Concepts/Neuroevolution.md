@@ -1,8 +1,10 @@
 Topology and weight adapting neural network. 
 ## Researchers
 [[Kenneth Stanley]]
+[[Antoine Cully]] - Quality Diversity
 ## Publications
-[[Neuroevolution of Augmenting Topologies]]
+[[Neuroevolution of Augmenting Topologies (Stanley, Miikkulainen) (2002)]]
+[[Neuroevolution is a Competitive Alternative to Reinforcement Learning for Skill Discovery ()(2023)]]
 ## Key Points (my notes)
 #### Network Encoding
 #### Network Evolution Algorithm
