@@ -4,83 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "c30e789888536a2c",
+        "id": "76df996cdf3aae05",
         "type": "tabs",
         "children": [
           {
-            "id": "c2f20ebe62d23c3a",
+            "id": "39fb087f704d4ae0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing/AI/AI.md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Doyne Farmer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bafc2b2c1f7d1bea",
+            "id": "72de3525175c4ac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing/AI/Papers/Edge of chaos as a guiding principle for modern neural network training (Lin Zhang, Ling Feng, Kan Chen, and Choy Heng Lai) (2021).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34477e4d5fe43be8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing/AI/AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "921382c2a1575d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing/AI/People/Donald Wunsch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e741adee20015bac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing/AI/Concepts/Neuroevolution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f32b7f659c68dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computing/Computing.md",
+                "file": "Computing/Courses/CSCS 5622 Introduction to Machine Learning - Supervised Learning (University of Colorado Boulder).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 200
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -146,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing/AI/People/Donald Wunsch.md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Doyne Farmer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing/AI/People/Donald Wunsch.md",
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Doyne Farmer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing/AI/People/Donald Wunsch.md"
+                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Doyne Farmer.md"
               }
             }
           }
@@ -207,46 +158,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "921382c2a1575d2d",
+  "active": "39fb087f704d4ae0",
   "lastOpenFiles": [
-    "Computing/AI/AI.md",
-    "Computing/AI/Papers/Edge of chaos as a guiding principle for modern neural network training (Lin Zhang, Ling Feng, Kan Chen, and Choy Heng Lai) (2021).md",
-    "Computing/AI/People/Donald Wunsch.md",
-    "Computing/AI/Concepts/Adaptive Resonance Theory.md",
-    "Computing/AI/Concepts/Model Discovery.md",
-    "Computing/AI/Concepts/Neuroevolution.md",
-    "Computing/Computing.md",
-    "Computing/AI/Papers/Automated Statistical Model Discovery with Language Models (Li, Fox, Goodman) (2024).md",
-    "Computing/AI/Papers/Quality-diversity optimization - a novel branch of stochastic optimization (Cully) (2021).md",
-    "Computing/AI/Papers/Quality and Diversity Optimization - A Unifying Modular Framework (Cully) (2017).md",
-    "Computing/AI/People/Antoine Cully.md",
-    "Computing/AI/Papers/Dynamics-aware quality-diversity for efficient learning of skill repertoires (Lim, Grillotti, Bernasconi, Cully) (2022).md",
-    "Computing/AI/Concepts/Quality Diversity.md",
-    "Computing/AI/Papers/Neuroevolution of Augmenting Topologies (Stanley, Miikkulainen) (2002).md",
-    "Computing/AI/People/Risto Miikkulainen.md",
-    "Computing/AI/People/Ellen Kuhl.md",
-    "Complex Systems/Books/Encyclopedia of Complexity and Systems Science (2009).md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Courses/Nonlinear Dynamics and Chaos (Course).md",
-    "Introductory Material/Introductory Material.md",
-    "Complex Systems/Books/Complexity - The Emerging Science at the Edge of Order and Chaos (1992).md",
-    "Complex Systems/Books/Complexity - The Emerging Science at the Edge of Order and Chaos (1992).md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Books/Chaos - Making a New Science (1987).md",
-    "README.md",
-    "Introductory Material",
-    "Computing/AI/People/Emily B. Fox.md",
+    "Economics and Finance/Books/Books.md",
+    "The Concepts and Practice of Mathematical Finance (2003).md",
+    "Computing/AI/Books/An Introduction to Statistical Learning with Application in Python (2023).md",
+    "Computing/Courses/CSCS 5622 Introduction to Machine Learning - Supervised Learning (University of Colorado Boulder).md",
+    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
+    "Computing/Courses.md",
+    "Computing/AI/Books",
+    "Computing/Courses/CSCA 5642 Introduction to Deep Learning (University of Colorado Boulder).md",
+    "Computing/Courses/CSCA 5632 Unsupervised Algorithms in Machine Learning (University of Colorado Boulder).md",
+    "Computing/Courses",
+    "Ideas/Dump.md",
     "Tools/JAX.md",
-    "Institutions/Stanford University.md",
+    "Systems Science, General Systems Theory, and Cybernetics/People/Norbert Weiner.md",
+    "Systems Science, General Systems Theory, and Cybernetics/People/Donella Meadows.md",
+    "Systems Science, General Systems Theory, and Cybernetics/People/Ludwig Von Bertalanffy.md",
+    "Systems Science, General Systems Theory, and Cybernetics/People",
+    "Physics/People/Wojciech H. Zurek.md",
+    "Physics/People/Philip Anderson.md",
+    "Physics/People/Per Bak.md",
+    "Physics/People/Murray Gell-Mann.md",
+    "Physics/People/Ilya Prigogine.md",
+    "Physics/People/Gregoire Nicolis.md",
+    "Physics/Books/Self-Organization in Non-Equilibrium Systems (1977).md",
+    "Physics/Books/Introduction to Thermodynamics of Irreversible Processes (1961).md",
+    "Philosophy/People/Paul Humphreys.md",
+    "Philosophy/People/Paul Cilliers.md",
+    "Philosophy/People/Mark A. Bedau.md",
+    "Philosophy/People/Jaegwon Kim.md",
+    "Philosophy/People/Edgar Morin.md",
+    "Philosophy/People",
+    "Introductory Material",
     "Images/bifurcation_diagram_logistics_equation.png",
-    "Images/bifurcation_diagram_logistics_equation.png.crdownload",
-    "Images/bifurcation_diagram_logistics_equation.jpg",
-    "Images/bifurcation_diagram_logistics_equation.jpg.crdownload",
-    "Computing/AI/Papers",
-    "Computing/AI/Concepts",
-    "Computing/AI/People",
-    "Computing/AI",
-    "Complex Systems/Courses",
-    "Complex Systems/Papers",
-    "Complex Systems/Concepts",
+    "History, Social, and Political Sciences/People",
+    "History, Social, and Political Sciences/Journals",
+    "History, Social, and Political Sciences/Books",
+    "History, Social, and Political Sciences",
+    "Economics and Finance/People",
     "Images/J_forms.png"
   ]
 }
