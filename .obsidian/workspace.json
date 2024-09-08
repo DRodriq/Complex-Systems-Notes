@@ -4,28 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "76df996cdf3aae05",
+        "id": "c30e789888536a2c",
         "type": "tabs",
         "children": [
           {
-            "id": "39fb087f704d4ae0",
+            "id": "34477e4d5fe43be8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Doyne Farmer.md",
+                "file": "Computing/AI/Papers/Neural Network Synchrocity with Nonlinear Dynamical Systems (Proposed).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "72de3525175c4ac0",
+            "id": "ff92084deb5016b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing/Courses/CSCS 5622 Introduction to Machine Learning - Supervised Learning (University of Colorado Boulder).md",
+                "file": "Computing/AI/People/Eli Shlizerman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7e9745b8f60f27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yang Zheng.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ffe8efcbd190f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing/AI/Papers/NN are a new type of dynamical system (Shlizerman, 2023).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7532be354b61d3dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computing/AI/Papers/Dynamics-aware quality-diversity for efficient learning of skill repertoires (Lim, Grillotti, Bernasconi, Cully) (2022).md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 687.5
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -97,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Doyne Farmer.md",
+                "file": "Computing/AI/Papers/Neural Network Synchrocity with Nonlinear Dynamical Systems (Proposed).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Doyne Farmer.md",
+                "file": "Computing/AI/Papers/Neural Network Synchrocity with Nonlinear Dynamical Systems (Proposed).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nonlinear Dynamics, Dynamical Systems, and Chaos/People/Doyne Farmer.md"
+                "file": "Computing/AI/Papers/Neural Network Synchrocity with Nonlinear Dynamical Systems (Proposed).md"
               }
             }
           }
@@ -158,45 +194,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39fb087f704d4ae0",
+  "active": "34477e4d5fe43be8",
   "lastOpenFiles": [
-    "Economics and Finance/Books/Books.md",
+    "Computing/AI/People/Eli Shlizerman.md",
+    "Computing/AI/Papers/Neural Network Synchrocity with Nonlinear Dynamical Systems (Proposed).md",
+    "Yang Zheng.md",
+    "Computing/AI/Papers/NN are a new type of dynamical system (Shlizerman, 2023).md",
+    "Computing/AI/Papers/Dynamics-aware quality-diversity for efficient learning of skill repertoires (Lim, Grillotti, Bernasconi, Cully) (2022).md",
+    "Computing/AI/AI.md",
+    "Computing/AI/Papers/Edge of chaos as a guiding principle for modern neural network training (Lin Zhang, Ling Feng, Kan Chen, and Choy Heng Lai) (2021).md",
     "The Concepts and Practice of Mathematical Finance (2003).md",
-    "Computing/AI/Books/An Introduction to Statistical Learning with Application in Python (2023).md",
+    "Ideas/Dump.md",
+    "Ideas",
+    "Economics and Finance/Books/Books.md",
     "Computing/Courses/CSCS 5622 Introduction to Machine Learning - Supervised Learning (University of Colorado Boulder).md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos.md",
-    "Computing/Courses.md",
-    "Computing/AI/Books",
     "Computing/Courses/CSCA 5642 Introduction to Deep Learning (University of Colorado Boulder).md",
     "Computing/Courses/CSCA 5632 Unsupervised Algorithms in Machine Learning (University of Colorado Boulder).md",
     "Computing/Courses",
-    "Ideas/Dump.md",
-    "Tools/JAX.md",
-    "Systems Science, General Systems Theory, and Cybernetics/People/Norbert Weiner.md",
-    "Systems Science, General Systems Theory, and Cybernetics/People/Donella Meadows.md",
-    "Systems Science, General Systems Theory, and Cybernetics/People/Ludwig Von Bertalanffy.md",
-    "Systems Science, General Systems Theory, and Cybernetics/People",
-    "Physics/People/Wojciech H. Zurek.md",
-    "Physics/People/Philip Anderson.md",
-    "Physics/People/Per Bak.md",
-    "Physics/People/Murray Gell-Mann.md",
-    "Physics/People/Ilya Prigogine.md",
-    "Physics/People/Gregoire Nicolis.md",
-    "Physics/Books/Self-Organization in Non-Equilibrium Systems (1977).md",
-    "Physics/Books/Introduction to Thermodynamics of Irreversible Processes (1961).md",
-    "Philosophy/People/Paul Humphreys.md",
-    "Philosophy/People/Paul Cilliers.md",
-    "Philosophy/People/Mark A. Bedau.md",
-    "Philosophy/People/Jaegwon Kim.md",
-    "Philosophy/People/Edgar Morin.md",
-    "Philosophy/People",
+    "Computing/Courses.md",
+    "Computing/AI/Books/An Introduction to Statistical Learning with Application in Python (2023).md",
+    "Computing/AI/Books",
+    "Computing/AI/People/Donald Wunsch.md",
+    "Computing/AI/Concepts/Adaptive Resonance Theory.md",
+    "Computing/AI/Concepts/Model Discovery.md",
+    "Computing/AI/Concepts/Neuroevolution.md",
+    "Computing/Computing.md",
+    "Computing/AI/Papers/Automated Statistical Model Discovery with Language Models (Li, Fox, Goodman) (2024).md",
+    "Computing/AI/Papers/Quality-diversity optimization - a novel branch of stochastic optimization (Cully) (2021).md",
+    "Computing/AI/Papers/Quality and Diversity Optimization - A Unifying Modular Framework (Cully) (2017).md",
+    "Computing/AI/People/Antoine Cully.md",
+    "Computing/AI/Concepts/Quality Diversity.md",
+    "Computing/AI/Papers/Neuroevolution of Augmenting Topologies (Stanley, Miikkulainen) (2002).md",
     "Introductory Material",
     "Images/bifurcation_diagram_logistics_equation.png",
-    "History, Social, and Political Sciences/People",
-    "History, Social, and Political Sciences/Journals",
-    "History, Social, and Political Sciences/Books",
-    "History, Social, and Political Sciences",
-    "Economics and Finance/People",
+    "Images/bifurcation_diagram_logistics_equation.png.crdownload",
+    "Images/bifurcation_diagram_logistics_equation.jpg",
+    "Images/bifurcation_diagram_logistics_equation.jpg.crdownload",
+    "Computing/AI/Papers",
+    "Computing/AI/Concepts",
+    "Computing/AI/People",
+    "Computing/AI",
     "Images/J_forms.png"
   ]
 }

@@ -1,0 +1,3 @@
+[NN are a new type of dynamical system (Shlizerman, 2023)](https://amath.washington.edu/news/2023/09/05/artificial-neural-networks-are-new-kind-dynamical-systems)
+
+An example of application of dynamical systems to Neural Networks is our work on **Lyapunov Exponents Interpretation for Recurrent Neural Networks** (RNNs). This direction was Ryan Vogt PhD thesis, UW AMATH PhD student in UW NeuroAI, graduated this Spring.
