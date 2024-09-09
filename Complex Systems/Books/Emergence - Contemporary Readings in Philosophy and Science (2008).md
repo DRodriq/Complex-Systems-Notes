@@ -1,7 +1,7 @@
 Edited by [[Mark A. Bedau]], [[Paul Humphreys]]
 ## Topics
-[[Complex Systems]]
-[[Philosophy]]
+[[Complex Systems (Home)]]
+[[Philosophy (Home)]]
 ## Concepts
 [[Emergence]]
 ## Authors

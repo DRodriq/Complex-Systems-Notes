@@ -9,7 +9,7 @@ Director of the Adaptive and Intelligent Robotics Lab
 [[Quality-diversity optimization - a novel branch of stochastic optimization (Cully) (2021)]]
 [[Dynamics-aware quality-diversity for efficient learning of skill repertoires (Lim, Grillotti, Bernasconi, Cully) (2022)]]
 ## Field
-[[AI]]
+[[AI (Home)]]
 [[Quality Diversity]]
 [[Neuroevolution]]
 From bio:  

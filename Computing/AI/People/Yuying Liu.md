@@ -7,4 +7,4 @@ Applied Scientist at Amazon
 [[Neural Networks for Nonlinear Dynamical Systems (Liu) (2022)]]
 [[Physics-Informed Koopman Network for time-series prediction of dynamical systems (Liu) (2024)]]
 ## Fields
-[[Computing]], [[Nonlinear Dynamics, Dynamical Systems, and Chaos]]
+[[Computing (Home)]], [[Nonlinear Dynamics, Dynamical Systems, and Chaos (Home)]]

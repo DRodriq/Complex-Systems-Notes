@@ -10,6 +10,6 @@ Guest Professor [[Nanyang Technological University]] in Singapore
 [[Introduction to the Theory of Complex Systems (2018)]]
 [[Principles of Evolution: from the Planck epoch to complex multicellular life (2012)]]
 ## Research Areas
-[[Complex Systems]]
-[[Networks]]
+[[Complex Systems (Home)]]
+[[Networks (Home)]]
 ## Collaborators

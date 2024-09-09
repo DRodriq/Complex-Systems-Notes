@@ -1,21 +1,20 @@
-## Index
-### Topic Areas
-[[Computing]]
-- AI/ML
+# Organization
+Home Page: [[Index]]
+## Getting Started
+[[Introductory Material]]
+## Topic Areas
+[[Computing (Home)]]
+- [[AI (Home)]]
 - Cellular Automata
 - Simulation and Modelling
 - Artificial Life
 - Information and Algorithmic Complexity
-[[Biology, Ecology, and Climate Science]]
-[[Economics and Finance]]
-[[Networks]]
-[[Nonlinear Dynamics, Dynamical Systems, and Chaos]]
-[[Philosophy]]
-[[History, Social, and Political Sciences]]
-[[Systems Science, General Systems Theory, and Cybernetics]]
-### Institutions
-[[Institutions]]
-### Software and Projects
-[[Software and Projects]]
-## Getting Started
-[[Introductory Material]]
+[[Biology, Ecology, and Climate Science (Home)]]
+[[Economics and Finance (Home)]]
+[[Networks (Home)]]
+[[Nonlinear Dynamics, Dynamical Systems, and Chaos (Home)]]
+[[Philosophy (Home)]]
+[[History, Social, and Political Sciences (Home)]]
+[[Systems Science, General Systems Theory, and Cybernetics  (Home)]]
+## Software and Projects
+[[Software and Projects (Home)]]

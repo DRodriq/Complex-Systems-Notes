@@ -5,5 +5,5 @@
 [[A survey of adaptive resonance theory neural network models for engineering applications (Wunsch) (2019)]]
 
 ## Fields
-[[AI]]
+[[AI (Home)]]
 [[Adaptive Resonance Theory]]

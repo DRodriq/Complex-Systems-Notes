@@ -5,5 +5,5 @@
 [[Exploring Complexity - An Introduction (1989)]]
 [[The End of Certainty (1997)]]
 ## Fields
-[[Physics]], [[Chemistry]], namely dissipative structures and non-equilibrium thermodynamics.
+[[Physics (Home)]], [[Chemistry]], namely dissipative structures and non-equilibrium thermodynamics.
 Nobel Prize (1977)
