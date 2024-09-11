@@ -170,3 +170,10 @@ by our linear model. We define the residual sum of squares (RSS) as
 or equivalently as
 RSS = e21 + e22 + · · · + e2n ,
 RSS = (y1 − β̂0 − β̂1 x1 )2 + (y2 − β̂0 − β̂1 x2 )2 + · · · + (yn − β̂0 − β̂1 xn )2 . (3.3)
+### Chapter 4: Classification
+In this chapter we discuss some widely-used classifiers: logistic regression, linear discriminant analysis, quadratic dislogistic criminant analysis, naive Bayes, and K-nearest neighbors. The discussion regression of logistic regression is used as a jumping-off point for a discussion of generalized linear models, and in particular, Poisson regression.
+#### 4.1 An Overview of Classification
+#### 4.2 Why Not Linear Regression?
+Linear regression supposes an ordering to the categories, and a continous value difference between values. 
+#### 4.3 Logistic Regression
+Rather than modeling the response Y directly, logistic regression models the probability that Y belongs to a particular category. 

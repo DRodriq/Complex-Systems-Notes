@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d3cd1b01b7c7da9c",
+        "id": "90f77742add863ec",
         "type": "tabs",
         "children": [
           {
-            "id": "625db136d24d1823",
+            "id": "38809407c30a3641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses.md",
+                "file": "Complexity Economics (2020).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -80,29 +81,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8e0a68cb1e4197f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Courses.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "aa34b2e11c14a9c4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses.md",
+                "file": "Complexity Economics (2020).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,24 +109,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses.md"
+                "file": "Complexity Economics (2020).md"
               }
-            }
-          },
-          {
-            "id": "45d736ecb45f0bbd",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,14 +131,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "copilot:Copilot Chat": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "625db136d24d1823",
+  "active": "38809407c30a3641",
   "lastOpenFiles": [
-    "Computing/Courses/Courses.md",
+    "Economics and Finance/Books/Untitled.md",
+    "Complexity Economics (2020).md",
+    "Economics and Finance/Books/Books.md",
     "Index.md",
+    "Computing/Courses/CSCS 5622 Introduction to Machine Learning - Supervised Learning (University of Colorado Boulder).md",
+    "Computing/AI/Books/An Introduction to Statistical Learning with Application in Python (2023).md",
+    "Courses.md",
+    "Computing/Courses/Courses.md",
     "Biology, Ecology, and Climate Science/Biology, Ecology, and Climate Science.md",
     "Computing/AI/AI (Home).md",
     "Computing/AI/Papers/Dynamics-aware quality-diversity for efficient learning of skill repertoires (Lim, Grillotti, Bernasconi, Cully) (2022).md",
@@ -180,12 +162,6 @@
     "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos (Home).md",
     "Philosophy/Philosophy (Home).md",
     "Physics/Physics (Home).md",
-    "Software and Projects/Software and Projects (Home).md",
-    "Systems Science, General Systems Theory, and Cybernetics/Systems Science, General Systems Theory, and Cybernetics  (Home).md",
-    "README.md",
-    "Ideas/Dump.md",
-    "Topic Areas.md",
-    "Courses.md",
     "Ideas",
     "Computing/Courses",
     "Computing/AI/Books",
