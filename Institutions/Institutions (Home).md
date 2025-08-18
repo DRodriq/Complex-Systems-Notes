@@ -2,3 +2,8 @@
 [[Center for Complex Adaptive Agent Systems Simulation]]
 [[Humboldt University]]
 [[Binghamton University]]
+[[Complexity Sciences Hub Vienna]]
+[[MIT]]
+[[Potsdam Institute for Climate Impact Research]]
+[[Stanford University]]
+[[University of Washington]]

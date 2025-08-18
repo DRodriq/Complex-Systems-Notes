@@ -1,5 +1,7 @@
-# Topic Areas
-[[AI (Home)]]
+## Getting Started
+[[Introductory Material (Home)]]
+## Topic Areas
+[[Computing (Home)]]
 [[Physics (Home)]]
 [[Networks (Home)]]
 [[Philosophy (Home)]]
@@ -10,6 +12,7 @@
 [[History, Social, and Political Sciences (Home)]]
 [[Nonlinear Dynamics, Dynamical Systems, and Chaos (Home)]]
 [[Systems Science, General Systems Theory, and Cybernetics  (Home)]]
-# Tools
-[[Institutions (Home)]]
+## Software and Projects
 [[Software and Projects (Home)]]
+## Institutions
+[[Institutions (Home)]]

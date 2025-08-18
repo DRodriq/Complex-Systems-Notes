@@ -1,6 +1,0 @@
-[[Nonlinear Dynamics, Dynamical Systems, and Chaos (Home)]]
-[[Networks (Home)]]
-[[Computing (Home)]]
-[[Biology, Ecology, and Medicine (Home)]]
-[[Economics and Finance (Home)]]
-[[Philosophy (Home)]]
