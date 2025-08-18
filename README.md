@@ -9,7 +9,7 @@ Home Page: [[Index]]
 - Simulation and Modelling
 - Artificial Life
 - Information and Algorithmic Complexity
-[[Biology, Ecology, and Climate Science (Home)]]
+[[Biology, Ecology, and Medicine (Home)]]
 [[Economics and Finance (Home)]]
 [[Networks (Home)]]
 [[Nonlinear Dynamics, Dynamical Systems, and Chaos (Home)]]

@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complexity Economics (2020).md",
+                "file": "Biology, Ecology, and Medicine/People/Edward Norton Lorenz.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Edward Norton Lorenz"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d0fafb4dbba4ad15",
@@ -86,10 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complexity Economics (2020).md",
+                "file": "Biology, Ecology, and Medicine/People/Edward Norton Lorenz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Edward Norton Lorenz"
             }
           },
           {
@@ -99,8 +109,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -109,8 +123,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complexity Economics (2020).md"
-              }
+                "file": "Biology, Ecology, and Medicine/People/Edward Norton Lorenz.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Edward Norton Lorenz"
+            }
+          },
+          {
+            "id": "a387c95e9c2bfa5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biology, Ecology, and Medicine/People/Edward Norton Lorenz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Edward Norton Lorenz"
             }
           }
         ],
@@ -136,10 +174,26 @@
   },
   "active": "38809407c30a3641",
   "lastOpenFiles": [
-    "Economics and Finance/Books/Untitled.md",
-    "Complexity Economics (2020).md",
-    "Economics and Finance/Books/Books.md",
+    "Biology, Ecology, and Medicine/People/Christian Messier.md",
+    "Biology, Ecology, and Medicine/People/Edward Norton Lorenz.md",
+    "Biology, Ecology, and Medicine/People/Eric Bonabeau.md",
+    "Biology, Ecology, and Medicine/People/Henry S. Horn.md",
+    "Biology, Ecology, and Medicine/People/Jordi Bascompte.md",
+    "Biology, Ecology, and Medicine/People/Klaus Puettmann.md",
+    "Biology, Ecology, and Medicine/People/Raymond T. Pierrehumbert.md",
+    "Biology, Ecology, and Medicine/People/Ricard V. Sole.md",
+    "Biology, Ecology, and Medicine/People/Robin L. Chazdin.md",
+    "Ideas/Dump.md",
+    "Images/J_forms.png",
+    "Images/bifurcation_diagram_logistics_equation.png",
+    "README.md",
     "Index.md",
+    "Meterology and Climate Science/Meteorology and Climate Science (Home).md",
+    "Biology, Ecology, and Medicine/Biology, Ecology, and Medicine (Home).md",
+    "Meterology and Climate Science",
+    "Complexity Economics (2020).md",
+    "Economics and Finance/Books/Untitled.md",
+    "Economics and Finance/Books/Books.md",
     "Computing/Courses/CSCS 5622 Introduction to Machine Learning - Supervised Learning (University of Colorado Boulder).md",
     "Computing/AI/Books/An Introduction to Statistical Learning with Application in Python (2023).md",
     "Courses.md",
@@ -148,32 +202,16 @@
     "Computing/AI/AI (Home).md",
     "Computing/AI/Papers/Dynamics-aware quality-diversity for efficient learning of skill repertoires (Lim, Grillotti, Bernasconi, Cully) (2022).md",
     "Computing/AI/Papers/NN are a new type of dynamical system (Shlizerman, 2023).md",
-    "Biology, Ecology, and Climate Science/Books/Books.md",
-    "Computing/AI/People/Yang Zheng.md",
-    "Biology, Ecology, and Climate Science/Biology, Ecology, and Climate Science (Home).md",
-    "Computing/AI/People/Eli Shlizerman.md",
-    "Tools/Tools.md",
-    "Complex Systems/Complex Systems (Home).md",
-    "Computing/Computing (Home).md",
-    "Economics and Finance/Economics and Finance (Home).md",
-    "History, Social, and Political Sciences/History, Social, and Political Sciences (Home).md",
-    "Institutions/Institutions (Home).md",
-    "Networks/Networks (Home).md",
-    "Nonlinear Dynamics, Dynamical Systems, and Chaos/Nonlinear Dynamics, Dynamical Systems, and Chaos (Home).md",
-    "Philosophy/Philosophy (Home).md",
-    "Physics/Physics (Home).md",
+    "Biology, Ecology, and Medicine/Books/Books.md",
     "Ideas",
     "Computing/Courses",
     "Computing/AI/Books",
     "Introductory Material",
-    "Images/bifurcation_diagram_logistics_equation.png",
     "Images/bifurcation_diagram_logistics_equation.png.crdownload",
     "Images/bifurcation_diagram_logistics_equation.jpg",
     "Images/bifurcation_diagram_logistics_equation.jpg.crdownload",
     "Computing/AI/Papers",
     "Computing/AI/Concepts",
-    "Computing/AI/People",
-    "Computing/AI",
-    "Images/J_forms.png"
+    "Computing/AI/People"
   ]
 }
