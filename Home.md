@@ -1,5 +1,9 @@
 ## Getting Started
-[[Introductory Material (Home)]]
+[[Site Guide]]
+[[What is This Place]]
+[[Introductory Material]]
+[[Why Complexity]]
+[[State of Complexity / Complex Systems]]
 ## Topic Areas
 [[Computing (Home)]]
 [[Physics (Home)]]

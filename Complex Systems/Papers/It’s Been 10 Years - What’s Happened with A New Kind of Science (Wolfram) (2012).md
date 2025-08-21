@@ -1,0 +1,1 @@
+http://blog.stephenwolfram.com/2012/05/its-been-10-years-whats-happened-with-a-new-kind-of-science/

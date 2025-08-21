@@ -18,6 +18,7 @@
 [[Journal of Complex Networks (Journal)]]
 [[Mathematics and Mechanics of Complex Systems (Journal)]]
 [[Network and Complex Systems (Journal)]]
+[[Applied Complexity Group (Journal]]
 ## People
 [[Yaneer Bar-Yam]]
 [[David Wolpert]]
