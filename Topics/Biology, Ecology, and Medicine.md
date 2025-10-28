@@ -1,0 +1,17 @@
+## People
+[[Christian Messier]]
+[[Edward Norton Lorenz]]
+[[Eric Bonabeau]]
+[[Henry S. Horn]]
+[[Klaus Puettmann]]
+[[Robin L. Chazdin]]
+[[Raymond T. Pierrehumbert]]
+## Books
+[[Managing Forests as Complex Adaptive Systems (Puettmann, Messier) (2013)]]
+[[Mathematical Models in Biology (Edelstein-Kesher) (2005)]]
+[[Mathematics in Population Biology and Epidemiology (Castillo-Chavez, Brauer) (2001)]]
+[[Population Biology - Concepts and Models (Hastings) (1997)]]
+[[Principles of Planetary Climate (Pierrehumbert) (2010)]]
+[[Self-Organization in Biological Systems (Bonabeau) (2001)]]
+[[Dynamical Systems for Biological Modeling An Introduction (Brauer, Kribs) (2016)]]
+[[The Adaptive Geometry of Trees (Horn) (1971)]]
