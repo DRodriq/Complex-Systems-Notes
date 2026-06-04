@@ -12,6 +12,8 @@ and curvature. They underlie general relativity, classical mechanics (Arnold's
 symplectic formulation), information geometry, and the manifold perspective
 on high-dimensional embeddings in ML.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## Concepts in this domain
 
 - [[differential-geometry]] — smooth manifolds, tangent spaces, vector fields,

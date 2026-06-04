@@ -8,6 +8,8 @@ status: stub
 
 > The mathematical study of information, entropy, and complexity — providing the quantitative language for asking how much structure a system has, how much uncertainty it contains, and what it means for a system to be complex rather than merely complicated or merely random.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## Core Concepts
 
 | Concept | One-line description | Status |

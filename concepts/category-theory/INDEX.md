@@ -9,6 +9,8 @@ status: stub
 
 > The mathematics of composition: objects, morphisms, functors, and the structures that result when "how things compose" is taken as primary. Pure category theory is the foundational layer; applied category theory (ACT) is the active research front bringing categorical tools to dynamical systems, computation, games, learning, and cybernetics.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## What This Domain Covers
 
 This domain indexes the categorical-thinking cluster relevant to complexity science: applied category theory (Fong & Spivak's *Seven Sketches* line), structured cospans and open systems (Baez and collaborators), wiring diagrams as operads (Spivak), polynomial functors as a theory of interaction (Spivak & Niu), compositional game theory (Hedges and collaborators), lenses and optics (Riley), categorical cybernetics (Capucci, Gavranović, Hedges, Rischel), and categorical systems theory (Myers).

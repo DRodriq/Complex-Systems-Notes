@@ -8,6 +8,8 @@ status: stub
 
 > The study of systems that can be represented as nodes connected by edges — and the discovery that many real-world networks share structural properties (scale-free degree distributions, small-world topology, community structure) that cut across their physical substrate.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## Core Concepts — Static / Structural
 
 | Concept | One-line description | Status |

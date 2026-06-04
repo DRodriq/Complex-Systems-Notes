@@ -8,6 +8,8 @@ status: developing
 
 > The study of information processing in natural and artificial systems — including how neural networks learn, how evolutionary algorithms search, how cellular automata compute, and how the architecture of modern large language models relates to the broader computational theory of mind and complex systems.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## What This Domain Covers
 
 This domain spans two related but distinct areas. The first is the classical AI and machine learning lineage: from early expert systems through connectionism (neural networks), through deep learning, to the transformer architectures that underpin modern LLMs. The second is the complexity-theoretic framing of computation: cellular automata, genetic algorithms, the edge of chaos hypothesis, and the question of whether biological and social systems perform computation in a meaningful sense.

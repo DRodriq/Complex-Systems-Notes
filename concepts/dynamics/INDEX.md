@@ -8,6 +8,8 @@ status: developing
 
 > The mathematical study of systems that evolve over time according to rules that are not linear — systems where outputs are not proportional to inputs, where small changes can have large effects, and where long-term behavior can be extraordinarily complex even from simple rules.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## What This Domain Covers
 
 Nonlinear dynamics provides the mathematical backbone for much of complexity science. Chaos theory — the most publicly visible part of this domain — established that deterministic systems could produce behavior so sensitive to initial conditions as to be practically unpredictable. But the domain is broader: it includes the full toolkit of dynamical systems theory (fixed points, limit cycles, strange attractors, bifurcations, Lyapunov exponents) and its applications across physics, biology, chemistry, and engineering.

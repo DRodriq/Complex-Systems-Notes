@@ -9,6 +9,8 @@ status: developing
 
 > The complexity science critique and extension of standard equilibrium economics: increasing returns, path dependence, lock-in, agent heterogeneity, and the economy as a complex adaptive system rather than an optimization-toward-equilibrium process.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## What This Domain Covers
 
 W. Brian Arthur and the SFI economics program represent the most sustained application of complexity science to a social science. The core argument: standard neoclassical economics assumes decreasing returns (which produce unique equilibria), representative agents (which eliminate heterogeneity), and optimization on a fixed possibility set (which ignores innovation and co-evolution). Real economies exhibit increasing returns (network effects, learning by doing), agent heterogeneity, and perpetual novelty that cannot be pre-specified.

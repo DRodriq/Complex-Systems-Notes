@@ -12,6 +12,8 @@ thinking, symmetries↔conservation laws (Noether), and the geometric viewpoint
 on dynamics. Together with statistical mechanics and nonlinear dynamics, it
 forms one of the three core physics pillars relevant to complexity science.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## Concepts in this domain
 
 - [[lagrangian-mechanics]] — variational formulation; the action principle;

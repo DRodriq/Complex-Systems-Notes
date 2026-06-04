@@ -8,6 +8,8 @@ status: developing
 
 > The study of systems composed of many interacting parts that exhibit coherent global behavior not reducible to those parts — and the attempt to understand the general principles governing such systems across substrates.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## What This Domain Covers
 
 Complexity science is not a single theory but a cluster of related frameworks and questions that crystallized around the Santa Fe Institute in the mid-1980s. Its central concern is understanding how global order, adaptation, and function arise from local interactions between simple agents or components — without central control, explicit design, or top-down instruction.

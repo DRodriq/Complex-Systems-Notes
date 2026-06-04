@@ -8,6 +8,8 @@ status: developing
 
 > The conceptual and ontological questions that complexity science raises: what emergence is and whether it exists, whether complex systems require new ontological categories, how reductionism fares against complexity, and what it means to explain collective phenomena.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## Core Concepts
 
 | Concept | One-line description | Status |

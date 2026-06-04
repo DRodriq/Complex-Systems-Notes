@@ -9,6 +9,8 @@ status: stub
 
 > Complexity science approaches to human social systems: cultural evolution, historical dynamics, cooperation, hunter-gatherer societies, and ABM of social phenomena.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## What This Domain Covers
 
 Social science applications of complexity science include both evolutionary/adaptationist accounts of human behavior (evolutionary psychology, cultural evolution, behavioral ecology) and formal complexity models of social dynamics (Axelrod's cooperation models, Turchin's cliodynamics, ABM of social systems).

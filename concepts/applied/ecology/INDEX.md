@@ -9,6 +9,8 @@ status: developing
 
 > The application of complexity science frameworks — nonlinear dynamics, CAS, network theory, ABM, scaling laws — to ecological systems: populations, communities, ecosystems, and evolutionary dynamics.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## What This Domain Covers
 
 Ecology is one of the oldest and richest application domains for complexity science. Population dynamics, predator-prey interactions, community assembly, ecosystem stability, and evolutionary change are all inherently nonlinear, multi-scale, and emergent phenomena. The frameworks of nonlinear dynamics, CAS theory, network science, and ABM all have well-developed ecological applications.

@@ -13,6 +13,8 @@ nonlinear dynamics). Its central contributions — entropy as a counting
 argument, phase transitions, universality, and the renormalization group — are
 among the most powerful thinking tools developed in 20th-century science.
 
+*Vault editorial stance and scope decisions: [[synthesis/why-complexity]].*
+
 ## Concepts in this domain
 
 - [[entropy-statistical]] — entropy as log of microstate multiplicity; the
