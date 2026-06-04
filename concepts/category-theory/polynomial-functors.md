@@ -3,7 +3,7 @@ type: concept
 name: "Polynomial Functors"
 domain: category-theory
 related_domains: [computation, dynamics, complexity]
-status: stub
+status: developing
 provenance: literature
 extends: []
 instance_of: []
@@ -31,4 +31,5 @@ Polynomial functors generalize the data of "for each position, a set of directio
 
 ## Sources
 
-- [[sources/books/spivak-niu-polynomial-functors-2021]] — *Polynomial Functors: A Mathematical Theory of Interaction*.
+- [[sources/books/spivak-niu-polynomial-functors-2021]] — *Polynomial Functors: A Mathematical Theory of Interaction*. Now formally published (Cambridge UP, 2025); the canonical reference for Poly.
+- Applied in [[sources/papers/smithe-structured-active-inference-2024]] — mode-dependent interfaces for structured agents are a direct use of Poly-style state-dependent interaction.

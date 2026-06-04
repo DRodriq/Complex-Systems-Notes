@@ -28,9 +28,11 @@ Lenses (`get : S → A`, `put : S × A → S`) compose: a lens from `S` to `A` a
 - The "perceive and act" framing connects optics to active-inference / Bayesian-brain formalisms (cf. [[sources/papers/smithe-bayesian-brain-2023]]).
 - [[polynomial-functors]] generalize lenses to mode-dependent interfaces — Poly morphisms are a strict generalization of lenses.
 - Backpropagation has a clean lens/optic interpretation: gradient descent is a functor whose morphisms are lens-like (cf. [[sources/papers/fong-spivak-tuyeras-backprop-functor-2019]]).
+- Reinforcement learning fits the same mould: Bellman backup is **value iteration as optic composition** — the value update is precomposition with an optic (cf. [[sources/papers/hedges-rl-categorical-cybernetics-2024]]).
 
 ## Sources
 
 - [[sources/papers/riley-categories-optics-2018]] — *Categories of Optics*; unification of lens variants.
 - [[sources/papers/fong-spivak-tuyeras-backprop-functor-2019]] — *Backprop as Functor*; learning as compositional.
 - [[sources/papers/capucci-categorical-cybernetics-2021]] — `Para(Optic)` unifying games, learners, agents.
+- [[sources/papers/hedges-rl-categorical-cybernetics-2024]] — RL in categorical cybernetics; value iteration as optic composition.

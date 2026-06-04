@@ -2,7 +2,7 @@
 type: domain-index
 domain: category-theory
 related_domains: [computation, complexity, dynamics, philosophy]
-status: stub
+status: developing
 ---
 
 # Category Theory Domain
@@ -25,25 +25,34 @@ The unifying idea: complex systems are built by composing simpler ones, and cate
 | [[functorial-semantics]] | Lawvere's framing: syntax is a category, semantics is a functor | stub |
 | [[open-systems]] | Structured cospans, decorated cospans, open Petri nets — systems with boundaries that compose | stub |
 | [[wiring-diagrams]] | Boxes-and-wires as an operad; systems-in-boxes as algebras over it | stub |
-| [[polynomial-functors]] | `Poly` — mathematical theory of interaction; open interactive dynamical systems with mode-dependent interfaces | stub |
+| [[polynomial-functors]] | `Poly` — mathematical theory of interaction; open interactive dynamical systems with mode-dependent interfaces | developing |
 | [[lenses-and-optics]] | Bidirectional `(get, put)` processes; the substrate for compositional agents and learners | stub |
 | [[generative-effects]] | The precise term (Fong & Spivak) for a functor failing to preserve joins/colimits — emergence formalized | stub |
 | [[compositional-game-theory]] | Open games — agents-with-strategies built from lenses; Ghani–Hedges–Winschel–Zahn line | stub |
-| [[categorical-cybernetics]] | `Para(Optic)` and related constructions unifying games, learners, and agents | stub |
-| [[categorical-systems-theory]] | Double-categorical framework unifying open dynamical systems and their composition (Myers) | stub |
+| [[categorical-cybernetics]] | `Para(Optic)` and related constructions unifying games, learners, and agents | developing |
+| [[categorical-systems-theory]] | Double-categorical framework unifying open dynamical systems and their composition (Myers) | developing |
 
 ## Key Figures
 
-[[david-spivak]] · [[brendan-fong]] · [[john-baez]] · [[jules-hedges]] · [[evan-patterson]] · [[james-fairbanks]] · [[david-jaz-myers]] · [[william-lawvere]] · [[matteo-capucci]] · [[bruno-gavranovic]]
+[[david-spivak]] · [[brendan-fong]] · [[john-baez]] · [[jules-hedges]] · [[evan-patterson]] · [[james-fairbanks]] · [[david-jaz-myers]] · [[sophie-libkind]] · [[toby-st-clere-smithe]] · [[william-lawvere]] · [[matteo-capucci]] · [[bruno-gavranovic]]
 
 ## Key Sources
 
 - [[sources/books/fong-spivak-seven-sketches-2018]] — accessible entry point
-- [[sources/books/spivak-niu-polynomial-functors-2021]] — Poly as a theory of interaction
+- [[sources/books/spivak-niu-polynomial-functors-2021]] — Poly as a theory of interaction (Cambridge UP, 2025)
 - [[sources/books/myers-categorical-systems-theory-draft]] — double-categorical synthesis
 - [[sources/papers/baez-pollard-reaction-networks-2017]] — rate equation as a functor
 - [[sources/papers/spivak-operad-wiring-diagrams-2013]] — operadic foundations
 - [[sources/papers/ghani-hedges-compositional-game-theory-2018]] — open games
+
+## Current Frontier (2024–2026)
+
+The field moved from foundations to applied agents, a unified systems theory, and working software:
+- [[sources/papers/myers-libkind-double-operadic-systems-2025]] — double-operadic unification of systems (2025).
+- [[sources/papers/smithe-structured-active-inference-2024]] — agents as duals of generative models; meta-agents.
+- [[sources/papers/hedges-rl-categorical-cybernetics-2024]] — RL inside `Para(Optic)`; value iteration as optic composition.
+- [[sources/papers/agent-policies-higher-order-causal-2026]] — higher-order causal functions for reward-seeking agents (2026).
+- [[sources/papers/morris-decapodes-2024]] — Decapodes / AlgebraicJulia: working compositional simulation + graph-rewriting ABM.
 
 ## Key Institutions
 

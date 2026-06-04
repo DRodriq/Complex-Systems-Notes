@@ -3,7 +3,7 @@ type: concept
 name: "Categorical Cybernetics"
 domain: category-theory
 related_domains: [computation, complexity, philosophy]
-status: stub
+status: developing
 provenance: literature
 extends: []
 instance_of: []
@@ -30,9 +30,19 @@ Cybernetics — the science of control and communication in animal and machine �
 - A re-foundation attempt for [[concepts/dynamics/INDEX|dynamical systems]] thinking about agents, complementing rather than displacing classical control-theoretic accounts.
 - Community organized via the [[institutions/cybernetics-institute]] (UK).
 
+### Recent frontier (2024–2026)
+
+The programme has moved from foundations to applied agents and AI. Key developments:
+- **Reinforcement learning** enters `Para(Optic)`: [[sources/papers/hedges-rl-categorical-cybernetics-2024]] (with the companion result that value iteration is optic composition — Bellman backup = precomposition with an optic). The backward pass *is* the value update.
+- **Active inference**, restructured: [[sources/papers/smithe-structured-active-inference-2024]] casts agents as controllers dual to their generative models, with mode-dependent interfaces, agents-managing-agents, and self-restructuring meta-agents.
+- **Frontier (2026)**: [[sources/papers/agent-policies-higher-order-causal-2026]] — reward-seeking agent policies via higher-order causal functions.
+
 ## Sources
 
 - [[sources/papers/capucci-categorical-cybernetics-2021]] — *Towards Foundations of Categorical Cybernetics*; the `Para(Optic)` construction.
 - [[sources/papers/fong-spivak-tuyeras-backprop-functor-2019]] — *Backprop as Functor*; learning as compositional, prefiguring `Para(Optic)`.
 - [[sources/papers/ghani-hedges-compositional-game-theory-2018]] — *Compositional Game Theory*; open games, a sibling construction.
-- [[sources/papers/smithe-bayesian-brain-2023]] — categorical active inference; agents with internal models.
+- [[sources/papers/hedges-rl-categorical-cybernetics-2024]] — RL inside `Para(Optic)`; value iteration as optic composition.
+- [[sources/papers/smithe-structured-active-inference-2024]] — structured active inference; agents as duals of generative models; meta-agents.
+- [[sources/papers/agent-policies-higher-order-causal-2026]] — higher-order causal functions for reward-seeking agents (early 2026).
+- [[sources/papers/smithe-bayesian-brain-2023]] — earlier categorical active inference; agents with internal models.

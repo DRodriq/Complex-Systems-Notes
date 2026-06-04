@@ -9,9 +9,11 @@ related_domains: [computation, dynamics]
 key_concepts: [polynomial-functors, poly, interaction, open-interactive-systems, dependent-types]
 ---
 
-# Polynomial Functors — Spivak & Niu (2021)
+# Polynomial Functors — Spivak & Niu (2021 draft; Cambridge UP 2025)
 
 > Book-length treatment of the category **Poly** of polynomial functors on Set, framed as a mathematical theory of *interaction*. Polynomial functors generalize the data of "for each position, a set of available actions," giving a categorical setting for open systems whose interfaces depend on their state.
+>
+> **Publication status:** circulated as a draft from 2021; formally published by **Cambridge University Press, online 27 September 2025** (ISBN 9781009576710). The slug retains `-2021` for link stability — cite the Cambridge 2025 edition as canonical.
 
 ## Orientation
 

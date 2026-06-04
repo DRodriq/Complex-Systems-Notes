@@ -11,7 +11,8 @@ status: stub
 
 ## Key Works
 
-- [[sources/papers/smithe-bayesian-brain-2023]]
+- [[sources/papers/smithe-bayesian-brain-2023]] — categorical foundations of the Bayesian brain.
+- [[sources/papers/smithe-structured-active-inference-2024]] — structured active inference on categorical systems theory; agents as duals of generative models; meta-agents.
 
 ## Connections
 

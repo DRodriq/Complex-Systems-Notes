@@ -36,3 +36,4 @@ The shift from closed to open systems is what makes categorical modelling of dyn
 - [[sources/papers/baez-master-open-petri-nets-2020]] — categorical foundation for open Petri nets.
 - [[sources/papers/baez-pollard-reaction-networks-2017]] — open reaction networks; the rate-equation assignment is functorial.
 - [[sources/papers/vagner-spivak-lerman-open-dynamical-2015]] — open dynamical systems composed via wiring diagrams.
+- [[sources/papers/morris-decapodes-2024]] — Decapodes / AlgebraicJulia: open-systems composition realized as working simulation software (multiphysics PDEs + graph-rewriting ABM).
