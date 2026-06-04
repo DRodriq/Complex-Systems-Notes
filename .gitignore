@@ -1,0 +1,10 @@
+# Obsidian per-machine state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# OS junk
+.DS_Store
+Thumbs.db

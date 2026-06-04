@@ -1,1 +1,0 @@
-by [[Henry S. Horn]]

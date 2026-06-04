@@ -1,1 +1,0 @@
-[Article](https://medium.com/sfi-30-foundations-frontiers/emergence-a-unifying-theme-for-21st-century-science-4324ac0f951e) by [[David Pines]]

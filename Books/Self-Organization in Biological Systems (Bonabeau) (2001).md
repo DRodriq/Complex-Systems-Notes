@@ -1,1 +1,0 @@
-by [[Eric Bonabeau]]

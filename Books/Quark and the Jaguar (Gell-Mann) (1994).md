@@ -1,1 +1,0 @@
-by [[Murray Gell-Mann]]

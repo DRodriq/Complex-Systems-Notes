@@ -1,1 +1,0 @@
-by [[Christopher Langton]], [[Doyne Farmer]], [[Steen Rasmussen]], [[Charles Taylor]]

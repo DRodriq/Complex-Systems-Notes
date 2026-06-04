@@ -1,1 +1,0 @@
-by [[Robert Axelrod]]

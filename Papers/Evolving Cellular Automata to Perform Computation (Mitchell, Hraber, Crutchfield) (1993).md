@@ -1,1 +1,0 @@
-Paper by [[Melanie Mitchell]], [[James Crutchfield]], [[Peter Hraber]]

@@ -1,1 +1,0 @@
-Working Papers edited by [[David Krakauer]] and [[Jessica Flack]]

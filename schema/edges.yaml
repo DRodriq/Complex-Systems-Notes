@@ -1,0 +1,182 @@
+# Edge Schema
+# Defines all typed edge fields used in vault frontmatter.
+# The extraction tool loads this as its type system.
+# Frontmatter fields not listed here are ignored by the tool.
+#
+# Fields:
+#   from:         valid node type(s) for the source of this edge
+#   to:           valid node type(s) for the target
+#   directed:     true = A→B is not the same as B→A
+#   declared_on:  "from" (default) | "to" — which node carries the field
+#   notes:        human-readable clarification
+
+edges:
+
+  # --- person → person ---
+
+  trained_under:
+    from: person
+    to: person
+    directed: true
+    notes: >
+      Formal doctoral or postdoctoral relationship. Use for cases where one
+      person was the official advisor or supervisor of another.
+
+  # --- person → institution ---
+
+  affiliated_with:
+    from: person
+    to: institution
+    directed: true
+    notes: >
+      Any substantive institutional affiliation — faculty, researcher,
+      fellow, president. Not for one-off visits.
+
+  founded:
+    from: person
+    to: institution
+    directed: true
+    notes: Institutional founder. Distinct from affiliated_with.
+
+  # --- person → event ---
+
+  participated_in:
+    from: person
+    to: event
+    directed: true
+    notes: >
+      Attendance at a workshop, conference, or symposium. Co-participation
+      (shared attended events) is derived from this field — do not declare
+      a separate collaborated_with field.
+
+  # --- person → concept ---
+
+  coined:
+    from: person
+    to: concept
+    directed: true
+    notes: >
+      Who named or first formally introduced the concept. Distinct from
+      who later developed or extended it.
+
+  # --- work → work ---
+
+  cites:
+    from: [source-book, source-paper]
+    to: [source-book, source-paper]
+    directed: true
+    notes: >
+      Formal citation. For key intellectual debts only — not exhaustive
+      bibliography. Label the field key_cites in contexts where you want
+      to mark a citation as load-bearing vs. incidental.
+
+  # --- work → concept ---
+
+  key_concepts:
+    from: [source-book, source-paper]
+    to: concept
+    directed: true
+    notes: >
+      Concepts this work substantially develops, formalizes, or applies.
+      Not every concept mentioned — only those the work meaningfully advances.
+
+  # --- work → journal / institution ---
+
+  published_in:
+    from: source-paper
+    to: journal
+    directed: true
+
+  published_by:
+    from: source-book
+    to: institution
+    directed: true
+    notes: Publisher or press.
+
+  # --- authorship (declared on the TO node for readability) ---
+
+  author:
+    from: person
+    to: [source-book, source-paper]
+    directed: true
+    declared_on: to
+    notes: >
+      Canonical authorship edge. Declared on the work, not the person,
+      because that is the natural place to write it. The tool reads
+      work.author and generates person→work edges accordingly.
+      Co-authorship (person-person edges through shared works) is derived
+      from this field.
+
+  edited_by:
+    from: person
+    to: source-book
+    directed: true
+    declared_on: to
+    notes: >
+      For collected volumes and proceedings. Editorship is a distinct
+      relationship from authorship — the editor convened and shaped the
+      conversation without necessarily writing it.
+
+  # --- concept → concept ---
+
+  extends:
+    from: concept
+    to: concept
+    directed: true
+    notes: >
+      Builds directly on the target — stronger than precedes. Use when
+      the source concept could not exist or be understood without the target.
+
+  instance_of:
+    from: concept
+    to: concept
+    directed: true
+    notes: A specific case or instantiation of a more general concept.
+
+  precedes:
+    from: concept
+    to: concept
+    directed: true
+    notes: >
+      Temporal and intellectual ancestor — weaker than extends. Use when
+      a concept enabled or contextually preceded another without being
+      directly continued. Example: cybernetics precedes complexity science.
+
+  contrasts_with:
+    from: concept
+    to: concept
+    directed: false
+    notes: >
+      Stands in explicit tension or opposition. Undirected — declare on
+      either node, the tool treats it symmetrically.
+
+  # --- institution → institution ---
+
+  funded_by:
+    from: institution
+    to: institution
+    directed: true
+    notes: >
+      Funder relationship. "Institution" here includes foundations,
+      government agencies, and corporations.
+
+  spawned:
+    from: institution
+    to: institution
+    directed: true
+    notes: >
+      One institution gave rise to another through a founding, spin-off,
+      or deliberate replication. Distinct from funded_by.
+
+  # --- event → institution / event ---
+
+  hosted_by:
+    from: event
+    to: institution
+    directed: true
+
+  part_of:
+    from: event
+    to: event
+    directed: true
+    notes: A specific event instance is part of an ongoing series.

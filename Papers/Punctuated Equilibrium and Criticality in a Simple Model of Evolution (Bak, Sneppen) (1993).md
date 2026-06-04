@@ -1,1 +1,0 @@
-Paper by [[Per Bak]]

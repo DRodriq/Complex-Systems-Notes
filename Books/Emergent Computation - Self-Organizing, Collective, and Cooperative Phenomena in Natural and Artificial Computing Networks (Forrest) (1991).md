@@ -1,1 +1,0 @@
-by [[Stephanie Forrest]]

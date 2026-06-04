@@ -1,1 +1,0 @@
-Book by [[David Krakauer]]
