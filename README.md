@@ -8,6 +8,16 @@ This vault exists to *find* complexity. The core complexity sciences condensed a
 
 The vault is designed for agent access. Documents are written with orientation at the top, substance in the middle, and explicit connections throughout. Frontmatter is machine-parseable. Relationships are stated in prose, not just linked.
 
+## Agentic Use
+
+This vault is structured under the discipline becoming known as **harness engineering** — shaping an agent's working context (memory, files, schemas, indexes) so a capable model can act usefully inside it. A vault legible only to humans forces an agent to reconstruct structure from prose on every read; a vault designed for both makes that structure explicit up front, and I have found it also has real value and raises interesting questions about information science.
+
+- **Schema** — every node carries machine-parseable frontmatter (type, status, provenance, edges). Documented in `VAULT.md`; formal edge types in `schema/edges.yaml`.
+- **Connections** — relationships are stated in prose *and* declared as edges in frontmatter, so the graph view and the reader's path stay consistent.
+- **Indexing** — each `concepts/<domain>/INDEX.md` is both a human map and an agent entry point; same for `synthesis/` documents on cross-cutting threads.
+
+**On authorship.** All content in this vault is original to the author or drawn from cited sources, with the exception of occasional LLM-assisted summaries of the author's own original material. Agentic involvement is restricted to the information-science work described above — structural refactoring, schema enforcement, indexing, link maintenance — not content generation.
+
 ## Major Intellectual Threads
 
 Each has a synthesis document in `synthesis/`:
