@@ -15,7 +15,7 @@ status: developing
 
 This domain indexes the categorical-thinking cluster relevant to complexity science: applied category theory (Fong & Spivak's *Seven Sketches* line), structured cospans and open systems (Baez and collaborators), wiring diagrams as operads (Spivak), polynomial functors as a theory of interaction (Spivak & Niu), compositional game theory (Hedges and collaborators), lenses and optics (Riley), categorical cybernetics (Capucci, Gavranović, Hedges, Rischel), and categorical systems theory (Myers).
 
-The unifying idea: complex systems are built by composing simpler ones, and categorical machinery makes that composition lawful and scalable. The vault uses these tools as the formal substrate underneath compositional modelling (see e.g. [[concepts/complexity/agent-based-modeling]] for the empirical-modelling counterpart).
+The unifying idea: complex systems are built by composing simpler ones, and categorical machinery makes that composition lawful and scalable. The vault uses these tools as the formal substrate underneath compositional modelling (see e.g. [[concepts/complexity/agent-based-modeling]] for the empirical-modelling counterpart, and [[concepts/geometry/discrete-exterior-calculus]] for the differential-operator layer carried into multiphysics via Decapodes).
 
 ## Core Topics
 
@@ -44,6 +44,7 @@ The unifying idea: complex systems are built by composing simpler ones, and cate
 - [[sources/papers/baez-pollard-reaction-networks-2017]] — rate equation as a functor
 - [[sources/papers/spivak-operad-wiring-diagrams-2013]] — operadic foundations
 - [[sources/papers/ghani-hedges-compositional-game-theory-2018]] — open games
+- [[sources/papers/libkind-baas-patterson-fairbanks-operadic-dynamical-2021]] — operadic dynamical-systems modelling in code (AlgebraicJulia)
 
 ## Current Frontier (2024–2026)
 
@@ -56,4 +57,4 @@ The field moved from foundations to applied agents, a unified systems theory, an
 
 ## Key Institutions
 
-[[institutions/topos-institute]] · [[institutions/cybernetics-institute]]
+[[institutions/topos-institute]] · [[institutions/cybernetics-institute]] · [[institutions/uc-riverside]] (Baez network-theory programme) · [[institutions/gtri]] (Decapodes applied)

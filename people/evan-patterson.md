@@ -11,8 +11,10 @@ status: stub
 
 ## Key Works
 
-- [[sources/papers/patterson-categorical-data-structures-2022]]
-- [[sources/papers/libkind-structured-epidemic-2022]]
+- [[sources/papers/patterson-categorical-data-structures-2022]] — ACSets/Catlab.jl, the data-structure substrate of AlgebraicJulia.
+- [[sources/papers/libkind-baas-patterson-fairbanks-operadic-dynamical-2021]] — operadic modelling of dynamical systems realized in code.
+- [[sources/papers/libkind-structured-epidemic-2022]] — typed Petri nets and `typed_product` stratification.
+- [[sources/papers/morris-decapodes-2024]] — Decapodes: DEC + categorical composition for multiphysics PDEs.
 
 ## Affiliations
 

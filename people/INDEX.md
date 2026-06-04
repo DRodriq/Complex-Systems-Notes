@@ -6,7 +6,7 @@ status: developing
 
 # People Index
 
-> Navigable index of the 178 person nodes in the vault, grouped by primary domain (frontmatter `domain:`). A figure appears once, in their primary domain — see individual files for `related_domains:` and full connections.
+> Navigable index of the 186 person nodes in the vault, grouped by primary domain (frontmatter `domain:`). A figure appears once, in their primary domain — see individual files for `related_domains:` and full connections.
 
 ## Summary
 
@@ -18,12 +18,12 @@ status: developing
 | Networks | 13 |
 | Information | 9 |
 | Philosophy | 13 |
-| Category Theory | 27 |
+| Category Theory | 31 |
 | Statistical Mechanics | 6 |
-| Geometry | 2 |
-| Mechanics | 1 |
+| Geometry | 5 |
+| Mechanics | 2 |
 | Applied | 22 |
-| **TOTAL** | **178** |
+| **TOTAL** | **186** |
 
 ## Complexity (28)
 
@@ -163,7 +163,7 @@ status: developing
 - [[paul-humphreys|Paul Humphreys]]
 - [[verena-foerster|Verena Foerster]]
 
-## Category Theory (27)
+## Category Theory (31)
 
 - [[andrew-baas|Andrew Baas]]
 - [[blake-pollard|Blake Pollard]]
@@ -177,9 +177,12 @@ status: developing
 - [[evan-patterson|Evan Patterson]]
 - [[jade-master|Jade Master]]
 - [[james-fairbanks|James Fairbanks]]
+- [[jesus-arias|Jesús Arias]]
 - [[john-baez|John Baez]]
 - [[jules-hedges|Jules Hedges]]
 - [[kenny-courser|Kenny Courser]]
+- [[luke-morris|Luke Morris]]
+- [[maia-gatlin|Maia Gatlin]]
 - [[matteo-capucci|Matteo Capucci]]
 - [[micah-halter|Micah Halter]]
 - [[mitchell-riley|Mitchell Riley]]
@@ -188,6 +191,7 @@ status: developing
 - [[owen-lynch|Owen Lynch]]
 - [[philipp-zahn|Philipp Zahn]]
 - [[remy-tuyeras|Remy Tuyeras]]
+- [[riu-rodriguez-sakamoto|Riu Rodríguez Sakamoto]]
 - [[sophie-libkind|Sophie Libkind]]
 - [[toby-st-clere-smithe|Toby St Clere Smithe]]
 - [[viktor-winschel|Viktor Winschel]]
@@ -202,13 +206,17 @@ status: developing
 - [[pankaj-mehta|Pankaj Mehta]]
 - [[sidney-redner|Sidney Redner]]
 
-## Geometry (2)
+## Geometry (5)
 
+- [[anil-hirani|Anil Hirani]]
 - [[john-m-lee|John M Lee]]
 - [[manfredo-do-carmo|Manfredo Do Carmo]]
+- [[mathieu-desbrun|Mathieu Desbrun]]
+- [[melvin-leok|Melvin Leok]]
 
-## Mechanics (1)
+## Mechanics (2)
 
+- [[jerrold-marsden|Jerrold Marsden]]
 - [[john-taylor|John Taylor]]
 
 ## Applied (22)

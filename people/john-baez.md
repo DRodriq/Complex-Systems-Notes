@@ -7,7 +7,7 @@ status: stub
 
 # John Baez
 
-> Mathematical physicist at UC Riverside; prolific writer on category theory, mathematical physics, network theory, and complex systems. Long-running "n-Category Café" blog and series of "Networks" papers laid much of the groundwork for applied-category-theoretic treatments of open systems.
+> Mathematical physicist at UC Riverside; prolific writer on category theory, mathematical physics, network theory, and complex systems. Founder and lead of the **Network Theory programme** at UCR (~2010–2020+), whose output — decorated cospans, structured cospans, open Petri nets, functorial-semantics treatments of reaction networks and Markov processes — became the categorical substrate for treating models as open systems. Long-running *n*-Category Café blog and series of "Networks" papers carried the programme publicly.
 
 ## Key Works
 
@@ -18,7 +18,7 @@ status: stub
 
 ## Affiliations
 
-UC Riverside
+[[institutions/uc-riverside]]
 
 ## Connections
 

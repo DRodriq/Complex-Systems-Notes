@@ -18,6 +18,10 @@ contrasts_with: []
 
 The shift from closed to open systems is what makes categorical modelling of dynamical systems possible at scale: rather than describing a complete system in one shot, you describe primitive open systems with input/output "feet" and a composition rule that glues them along those feet. The mathematics for this matured in the late 2010s through Fong's thesis (decorated cospans) and Baez & Courser's structured-cospans framework, which generalized the construction and clarified its categorical properties.
 
+### The Baez network-theory programme at UC Riverside
+
+Much of the open-systems substrate the vault tracks came out of [[john-baez|John Baez]]'s long-running **Network Theory** programme at [[institutions/uc-riverside|UC Riverside]] (~2010–2020+). The programme operated through Baez's *n*-Category Café blog series and a cluster of PhD students who carried specific threads forward: [[brendan-fong|Fong]] (decorated cospans, before moving to Oxford then Topos), [[blake-pollard|Pollard]] (reaction networks, Markov processes — the functorial-semantics keystone papers), [[jade-master|Master]] (open Petri nets), [[kenny-courser|Courser]] (structured cospans). The programme's distinctive move was to take "treat models as open systems" as a *unifying* stance — applicable across reaction networks, Markov processes, circuits, Petri nets, signal-flow graphs — rather than as a special trick for any one domain. That stance is what the AlgebraicJulia software stack later operationalized.
+
 ## Core
 
 (stub — to be filled when this node develops)
