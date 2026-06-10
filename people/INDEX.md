@@ -6,7 +6,7 @@ status: developing
 
 # People Index
 
-> Navigable index of the 186 person nodes in the vault, grouped by primary domain (frontmatter `domain:`). A figure appears once, in their primary domain — see individual files for `related_domains:` and full connections.
+> Navigable index of the 192 person nodes in the vault, grouped by primary domain (frontmatter `domain:`). A figure appears once, in their primary domain — see individual files for `related_domains:` and full connections.
 
 ## Summary
 
@@ -14,16 +14,16 @@ status: developing
 |---|---:|
 | Complexity | 28 |
 | Dynamics | 18 |
-| Computation | 39 |
+| Computation | 41 |
 | Networks | 13 |
 | Information | 9 |
 | Philosophy | 13 |
-| Category Theory | 31 |
+| Category Theory | 35 |
 | Statistical Mechanics | 6 |
 | Geometry | 5 |
 | Mechanics | 2 |
 | Applied | 22 |
-| **TOTAL** | **186** |
+| **TOTAL** | **192** |
 
 ## Complexity (28)
 
@@ -77,7 +77,7 @@ status: developing
 - [[vladimir-arnold|Vladimir Arnold]]
 - [[yakov-sinai|Yakov Sinai]]
 
-## Computation (39)
+## Computation (41)
 
 - [[alexandre-day|Alexandre Day]]
 - [[antoine-cully|Antoine Cully]]
@@ -88,6 +88,7 @@ status: developing
 - [[christopher-langton|Christopher Langton]]
 - [[clint-richardson|Clint Richardson]]
 - [[cosma-shalizi|Cosma Shalizi]]
+- [[david-dalrymple|David Dalrymple]]
 - [[david-wolpert|David Wolpert]]
 - [[donald-wunsch|Donald Wunsch]]
 - [[eli-shlizerman|Eli Shlizerman]]
@@ -109,6 +110,7 @@ status: developing
 - [[melanie-mitchell|Melanie Mitchell]]
 - [[nigel-gilbert|Nigel Gilbert]]
 - [[noah-goodman|Noah Goodman]]
+- [[petar-velickovic|Petar Veličković]]
 - [[peter-dayan|Peter Dayan]]
 - [[prosenjit-bose|Prosenjit Bose]]
 - [[risto-miikkulainen|Risto Miikkulainen]]
@@ -163,7 +165,7 @@ status: developing
 - [[paul-humphreys|Paul Humphreys]]
 - [[verena-foerster|Verena Foerster]]
 
-## Category Theory (31)
+## Category Theory (35)
 
 - [[andrew-baas|Andrew Baas]]
 - [[blake-pollard|Blake Pollard]]
@@ -175,12 +177,14 @@ status: developing
 - [[eigil-rischel|Eigil Rischel]]
 - [[eugene-lerman|Eugene Lerman]]
 - [[evan-patterson|Evan Patterson]]
+- [[geoffrey-cruttwell|Geoffrey Cruttwell]]
 - [[jade-master|Jade Master]]
 - [[james-fairbanks|James Fairbanks]]
 - [[jesus-arias|Jesús Arias]]
 - [[john-baez|John Baez]]
 - [[jules-hedges|Jules Hedges]]
 - [[kenny-courser|Kenny Courser]]
+- [[kris-brown|Kris Brown]]
 - [[luke-morris|Luke Morris]]
 - [[maia-gatlin|Maia Gatlin]]
 - [[matteo-capucci|Matteo Capucci]]
@@ -189,11 +193,13 @@ status: developing
 - [[neil-ghani|Neil Ghani]]
 - [[nelson-niu|Nelson Niu]]
 - [[owen-lynch|Owen Lynch]]
+- [[paul-lessard|Paul Lessard]]
 - [[philipp-zahn|Philipp Zahn]]
 - [[remy-tuyeras|Remy Tuyeras]]
 - [[riu-rodriguez-sakamoto|Riu Rodríguez Sakamoto]]
 - [[sophie-libkind|Sophie Libkind]]
 - [[toby-st-clere-smithe|Toby St Clere Smithe]]
+- [[tyler-hanks|Tyler Hanks]]
 - [[viktor-winschel|Viktor Winschel]]
 - [[william-lawvere|William Lawvere]]
 

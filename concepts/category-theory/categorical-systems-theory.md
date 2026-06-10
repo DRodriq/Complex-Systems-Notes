@@ -34,11 +34,12 @@ By the late 2010s, several distinct categorical approaches to open systems had m
 The programme has progressed from the book draft toward a unified formal core:
 - [[sources/papers/myers-libkind-double-operadic-systems-2025]] packages systems, their interactions, and their maps into one double-operadic structure (a symmetric monoidal loose right module over a double category) — the "single substrate" step.
 - [[sources/papers/myers-nondeterministic-behaviours-dcst-2025]] develops the behaviour side for nondeterministic systems.
-- Applied uptake: a funded **"Double Categorical Systems Theory for Safeguarded AI"** project uses DCST as a mathematical foundation for AI system design and safety.
+- Applied uptake: a funded **"Double Categorical Systems Theory for Safeguarded AI"** project uses DCST as a mathematical foundation for AI system design and safety — the theory track of [[david-dalrymple|Dalrymple]]'s ARIA programme ([[sources/papers/dalrymple-safeguarded-ai-2024]], [[sources/papers/dalrymple-guaranteed-safe-ai-2024]]).
 
 ## Sources
 
 - [[sources/books/myers-categorical-systems-theory-draft]] — *Categorical Systems Theory* (book draft, ongoing).
+- [[sources/papers/myers-double-categories-dynamical-2021]] — *Double Categories of Open Dynamical Systems*; the originating research paper behind the book draft.
 - [[sources/papers/myers-libkind-double-operadic-systems-2025]] — double-operadic unification (2025); the current anchor.
 - [[sources/papers/myers-nondeterministic-behaviours-dcst-2025]] — nondeterministic behaviours in DCST (2025).
 - [[sources/papers/vagner-spivak-lerman-open-dynamical-2015]] — earlier wiring-diagrams approach that the double-categorical framework generalizes.

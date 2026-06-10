@@ -73,12 +73,39 @@ edges:
   # --- work → concept ---
 
   key_concepts:
-    from: [source-book, source-paper]
+    from: [source-book, source-paper, source-software]
     to: concept
     directed: true
     notes: >
       Concepts this work substantially develops, formalizes, or applies.
       Not every concept mentioned — only those the work meaningfully advances.
+      For software, the concepts the package implements or operationalizes.
+
+  # --- software → work / software / person ---
+
+  implements:
+    from: source-software
+    to: [source-paper, concept]
+    directed: true
+    notes: >
+      The theory a piece of software realizes in code — the paper or concept
+      whose construction the package makes executable.
+
+  builds_on:
+    from: source-software
+    to: source-software
+    directed: true
+    notes: >
+      Software dependency on another package in the vault (e.g. a tool built
+      on top of a lower-level library in the same ecosystem).
+
+  maintained_by:
+    from: source-software
+    to: person
+    directed: true
+    notes: >
+      Principal author(s) / maintainer(s) of the software. Distinct from
+      authorship of a paper; tracks who actually develops the codebase.
 
   # --- work → journal / institution ---
 

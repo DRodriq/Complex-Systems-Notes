@@ -34,7 +34,7 @@ The unifying idea: complex systems are built by composing simpler ones, and cate
 
 ## Key Figures
 
-[[david-spivak]] · [[brendan-fong]] · [[john-baez]] · [[jules-hedges]] · [[evan-patterson]] · [[james-fairbanks]] · [[david-jaz-myers]] · [[sophie-libkind]] · [[toby-st-clere-smithe]] · [[william-lawvere]] · [[matteo-capucci]] · [[bruno-gavranovic]]
+[[david-spivak]] · [[brendan-fong]] · [[john-baez]] · [[jules-hedges]] · [[evan-patterson]] · [[james-fairbanks]] · [[david-jaz-myers]] · [[sophie-libkind]] · [[toby-st-clere-smithe]] · [[william-lawvere]] · [[matteo-capucci]] · [[bruno-gavranovic]] · [[geoffrey-cruttwell]] · [[kris-brown]] · [[petar-velickovic]] · [[david-dalrymple]]
 
 ## Key Sources
 
@@ -45,6 +45,7 @@ The unifying idea: complex systems are built by composing simpler ones, and cate
 - [[sources/papers/spivak-operad-wiring-diagrams-2013]] — operadic foundations
 - [[sources/papers/ghani-hedges-compositional-game-theory-2018]] — open games
 - [[sources/papers/libkind-baas-patterson-fairbanks-operadic-dynamical-2021]] — operadic dynamical-systems modelling in code (AlgebraicJulia)
+- [[sources/papers/brown-categorical-rewriting-2023]] — DPO/SPO/SqPO rewriting for acsets; the structural-change engine under ABM-via-rewriting
 
 ## Current Frontier (2024–2026)
 
@@ -54,6 +55,12 @@ The field moved from foundations to applied agents, a unified systems theory, an
 - [[sources/papers/hedges-rl-categorical-cybernetics-2024]] — RL inside `Para(Optic)`; value iteration as optic composition.
 - [[sources/papers/agent-policies-higher-order-causal-2026]] — higher-order causal functions for reward-seeking agents (2026).
 - [[sources/papers/morris-decapodes-2024]] — Decapodes / AlgebraicJulia: working compositional simulation + graph-rewriting ABM.
+- [[sources/papers/cruttwell-gradient-based-learning-2022]] + [[sources/papers/gavranovic-categorical-deep-learning-2024]] — the categorical-learning line reaching mainstream ML (parametric-lens learners; architectures as monad algebras).
+- [[sources/papers/dalrymple-safeguarded-ai-2024]] + [[sources/papers/dalrymple-guaranteed-safe-ai-2024]] — Guaranteed-Safe / Safeguarded AI; the funded applied stake behind DCST (categorical world-models + verified typed agents).
+
+## Software
+
+The computational substrate under this cluster lives in [[sources/software/INDEX|sources/software]] — the AlgebraicJulia ecosystem (Catlab, AlgebraicDynamics, AlgebraicPetri, AlgebraicRewriting, Decapodes), plus Topos's CatColab and the Haskell open-games-engine, each annotated with maintenance status. First full node: [[sources/software/algebraicabms-jl]] (graph-rewriting ABM, research-grade).
 
 ## Key Institutions
 

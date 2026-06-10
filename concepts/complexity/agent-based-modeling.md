@@ -76,11 +76,14 @@ The connection to RL is increasingly tight: multi-agent RL systems are ABMs wher
 
 **Applied ecology** (`concepts/applied/ecology/INDEX.md`) — ABM is a primary tool in ecology for modeling population dynamics, landscape ecology, and evolutionary dynamics.
 
+**Categorical ABM** (`concepts/category-theory/applied-category-theory.md`) — the AlgebraicJulia line recasts ABM as *typed graph rewriting*: agents and world are an acset, and births/deaths/rewirings are double-pushout rules, so structural change stays correct-by-construction. Theory in `sources/papers/brown-categorical-rewriting-2023.md`; implementation in `sources/software/algebraicabms-jl.md` (research-grade).
+
 ## Sources
 
 - `sources/books/agent-based-modeling-archaeology-2021.md`
 - `sources/papers/grimm-odd-2006.md`
 - `sources/papers/grimm-ten-years-1999.md`
+- `sources/software/algebraicabms-jl.md` — categorical (graph-rewriting) ABM in AlgebraicJulia
 
 ## Open Questions
 

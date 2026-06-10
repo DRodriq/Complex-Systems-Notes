@@ -56,6 +56,7 @@ VAULT.md                        ← you are here
   /papers/                      ← journal papers and articles
   /journals/                    ← journal reference entries
   /articles/                    ← blog posts and web articles
+  /software/                    ← software packages and tools (with maintenance status)
 
 /people/                        ← person nodes: role, contributions, connections
 /institutions/                  ← SFI, NECSI, and peer institutions
@@ -68,7 +69,7 @@ VAULT.md                        ← you are here
 
 **Entering by thread:** Go directly to the relevant file in `/synthesis/`. These are written as coherent essays tracing a single cross-cutting idea across domains.
 
-**Entering by source:** Files in `/sources/books/` and `/sources/papers/` summarize individual works and link to the concept nodes they inform.
+**Entering by source:** Files in `/sources/books/` and `/sources/papers/` summarize individual works and link to the concept nodes they inform. `/sources/software/` does the same for tools — packages that *implement* the theory, annotated with maintenance status.
 
 **Entering by person:** Files in `/people/` describe a figure's role, contributions, and which concept nodes their work feeds into.
 
@@ -85,6 +86,7 @@ All files use hyphenated slug IDs that double as node IDs in frontmatter referen
 | person | `lastname-firstname` | `bar-yam-yaneer` |
 | source-book | `lastname-shorttitle-year` | `bar-yam-dynamics-1997` |
 | source-paper | `lastname-shorttitle-year` | `barabasi-scaling-networks-1999` |
+| source-software | `package-name` (lowercased, `.`→`-`) | `algebraicabms-jl` |
 | concept | `concept-name` | `complexity-profile` |
 | institution | `institution-shortname` | `santa-fe-institute` |
 | event | `shortname-year` | `sfi-economy-workshop-1987` |
@@ -135,6 +137,23 @@ related_domains: []
 cites: []                      # → work
 key_concepts: []               # → concept
 published_in: slug             # → journal
+```
+
+**source-software**
+```yaml
+type: source-software
+name: "Package.jl"
+repo: "https://github.com/org/Package.jl"
+language: Julia
+license: MIT
+maintenance: active | maintained | research-grade | dormant | archived
+year: YYYY                     # first release / repo creation
+domain: primary-domain
+related_domains: []
+maintained_by: []              # → person — principal authors/maintainers
+builds_on: []                  # → source-software — package dependencies in-vault
+implements: []                 # → source-paper | concept — the theory it realizes
+key_concepts: []               # → concept
 ```
 
 **concept**
@@ -193,6 +212,7 @@ Formal edge schema with direction and valid node types lives at `/schema/edges.y
 - `developing` — orientation and partial core written, not yet complete
 - `mature` — orientation, core, connections, and sources all present
 - Works only: `queued` | `reading` | `read`
+- Software only — the `maintenance:` field tracks the codebase, not the note: `active` (current development) | `maintained` (stable, low-churn) | `research-grade` (usable but pre-release, unstable API) | `dormant` (no recent activity) | `archived` (formally retired). Record the basis (e.g. last-commit date) in the note body, since this ages.
 
 ### Provenance Levels
 
