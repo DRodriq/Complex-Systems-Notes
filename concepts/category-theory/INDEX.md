@@ -58,6 +58,10 @@ The field moved from foundations to applied agents, a unified systems theory, an
 - [[sources/papers/cruttwell-gradient-based-learning-2022]] + [[sources/papers/gavranovic-categorical-deep-learning-2024]] — the categorical-learning line reaching mainstream ML (parametric-lens learners; architectures as monad algebras).
 - [[sources/papers/dalrymple-safeguarded-ai-2024]] + [[sources/papers/dalrymple-guaranteed-safe-ai-2024]] — Guaranteed-Safe / Safeguarded AI; the funded applied stake behind DCST (categorical world-models + verified typed agents).
 
+## Open Explorations
+
+- [[explorations/categorical-abm-structure-vs-agency]] — does the ABM / category-theory crossover split between structural rewriting and agent optics, and is that split fundamental or a missing-composition artifact? A source-indexed reading-map into the question.
+
 ## Software
 
 The computational substrate under this cluster lives in [[sources/software/INDEX|sources/software]] — the AlgebraicJulia ecosystem (Catlab, AlgebraicDynamics, AlgebraicPetri, AlgebraicRewriting, Decapodes), plus Topos's CatColab and the Haskell open-games-engine, each annotated with maintenance status. First full node: [[sources/software/algebraicabms-jl]] (graph-rewriting ABM, research-grade).

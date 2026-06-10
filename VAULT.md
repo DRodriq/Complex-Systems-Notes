@@ -49,7 +49,8 @@ VAULT.md                        ← you are here
     /economics/
     /social-science/
 
-/synthesis/                     ← cross-cutting threads, the connective tissue
+/synthesis/                     ← cross-cutting threads, the connective tissue (author's conclusions)
+/explorations/                  ← open-question reading-maps: indexed source paths into an unresolved question, no conclusions
 
 /sources/
   /books/                       ← book-length sources
@@ -68,6 +69,8 @@ VAULT.md                        ← you are here
 **Entering by topic:** Start at the relevant domain `INDEX.md` in `/concepts/`. It gives a map of the domain and entry points into individual concept notes.
 
 **Entering by thread:** Go directly to the relevant file in `/synthesis/`. These are written as coherent essays tracing a single cross-cutting idea across domains.
+
+**Entering by open question:** Files in `/explorations/` are reading-maps into an unresolved question — they pose it, index the sources that bear on it in a build-up order, and lay out sub-threads, without taking a position. Distinct from `/synthesis/` (which states the author's conclusions); an exploration is the scaffold a synthesis might later be built from.
 
 **Entering by source:** Files in `/sources/books/` and `/sources/papers/` summarize individual works and link to the concept nodes they inform. `/sources/software/` does the same for tools — packages that *implement* the theory, annotated with maintenance status.
 
@@ -199,6 +202,19 @@ name: "Journal Name"
 domain: primary-domain
 published_by: slug             # → institution
 ```
+
+**exploration**
+```yaml
+type: exploration
+name: "Exploration Title"
+domain: primary-domain
+related_domains: []
+status: open | active | resolved   # resolved → may graduate into /synthesis/
+provenance: literature             # poses and indexes; does not conclude
+question: "the one-line open question this note maps"
+```
+Relations in an exploration are carried as prose wikilinks (the reading
+progression), not typed edges — the note is a map, not a claim.
 
 ### Edge Definitions
 
